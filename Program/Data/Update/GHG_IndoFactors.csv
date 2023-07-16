@@ -1,0 +1,1009 @@
+Country Name,Country Code,Indicator Name,Indicator Code,2017,2018,2019
+Indonesia,IDN,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,893588.3,958076.1,1002369.0
+Indonesia,IDN,"Internally displaced persons, new displacement associated with conflict and violence (number of cases)",VC.IDP.NWCV,2800.0,4500.0,23000.0
+Indonesia,IDN,"Voice and Accountability: Percentile Rank, Lower Bound of 90% Confidence Interval",VA.PER.RNK.LOWER,42.8571434,42.99517059,42.99517059
+Indonesia,IDN,Travel services (% of commercial service exports),TX.VAL.TRVL.ZS.WT,53.27123475,53.87354379,54.70875932
+Indonesia,IDN,Commercial service exports (current US$),TX.VAL.SERV.CD.WT,2.4665052782E10,3.0489536577E10,3.0910487229E10
+Indonesia,IDN,Merchandise exports by the reporting economy (current US$),TX.VAL.MRCH.WL.CD,1.69E11,1.74E11,1.68E11
+Indonesia,IDN,Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports),TX.VAL.MRCH.R4.ZS,1.543495221,1.364470834,1.295534062
+Indonesia,IDN,Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports),TX.VAL.MRCH.OR.ZS,17.80349866,17.00678706,16.00458047
+Indonesia,IDN,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,5.953723221,6.872276739,5.447375777
+Indonesia,IDN,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,21.84518766,23.31002856,20.33802174
+Indonesia,IDN,Export volume index (2000 = 100),TX.QTY.MRCH.XD.WD,132.6043998,133.426382,129.3719331
+Indonesia,IDN,Transport services (% of commercial service imports),TM.VAL.TRAN.ZS.WT,31.71320031,33.02035796,29.69284304
+Indonesia,IDN,Merchandise imports from low- and middle-income economies within region (% of total merchandise imports),TM.VAL.MRCH.WR.ZS,37.18657442,36.52017042,38.62104602
+Indonesia,IDN,Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports),TM.VAL.MRCH.R5.ZS,2.81779542,3.013096752,2.760197883
+Indonesia,IDN,Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports),TM.VAL.MRCH.R1.ZS,37.18657442,36.52017042,38.62104602
+Indonesia,IDN,Merchandise imports from economies in the Arab World (% of total merchandise imports),TM.VAL.MRCH.AL.ZS,5.000692547,5.260002403,4.847577703
+Indonesia,IDN,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,7.972120317,7.703090046,8.060779755
+Indonesia,IDN,Import unit value index (2015 = 100),TM.UVI.MRCH.XD.WD,102.9747882,110.0565576,104.8821423
+Indonesia,IDN,"Tariff rate, most favored nation, simple mean, primary products (%)",TM.TAX.TCOM.SM.FN.ZS,6.87,7.03,9.07
+Indonesia,IDN,"Binding coverage, primary products (%)",TM.TAX.TCOM.BC.ZS,99.31,99.31,99.24
+Indonesia,IDN,"Tariff rate, most favored nation, simple mean, all products (%)",TM.TAX.MRCH.SM.FN.ZS,8.1,8.15,8.67
+Indonesia,IDN,"Binding coverage, all products (%)",TM.TAX.MRCH.BC.ZS,96.53,96.53,96.51
+Indonesia,IDN,"Tariff rate, most favored nation, simple mean, manufactured products (%)",TM.TAX.MANF.SM.FN.ZS,8.56,8.56,8.56
+Indonesia,IDN,"Binding coverage, manufactured products (%)",TM.TAX.MANF.BC.ZS,95.82,95.82,95.82
+Indonesia,IDN,"International tourism, expenditures (current US$)",ST.INT.XPND.CD,1.0945E10,1.3171E10,1.4449E10
+Indonesia,IDN,"International tourism, receipts for passenger transport items (current US$)",ST.INT.TRNR.CD,1.552E9,1.489E9,1.494E9
+Indonesia,IDN,"International tourism, number of arrivals",ST.INT.ARVL,1.404E7,1.581E7,1.6107E7
+Indonesia,IDN,Urban population growth (annual %),SP.URB.GROW,2.239796021,2.177306227,2.123580212
+Indonesia,IDN,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,49.62344941,49.6243418,49.62645884
+Indonesia,IDN,Age dependency ratio (% of working-age population),SP.POP.DPND,48.77080053,48.50598473,48.27178316
+Indonesia,IDN,"Population ages 75-79, male (% of male population)",SP.POP.7579.MA.5Y,1.001063834,1.003968955,1.00605057
+Indonesia,IDN,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,6.345066091,6.458385226,6.593818247
+Indonesia,IDN,"Population ages 65 and above, female (% of female population)",SP.POP.65UP.FE.ZS,7.248671746,7.369788745,7.514266831
+Indonesia,IDN,"Population ages 60-64, male (% of male population)",SP.POP.6064.MA.5Y,3.273645119,3.399193439,3.5250224
+Indonesia,IDN,"Population ages 50-54, male (% of male population)",SP.POP.5054.MA.5Y,5.593200633,5.680631111,5.760707476
+Indonesia,IDN,"Population ages 40-44, male (% of male population)",SP.POP.4044.MA.5Y,7.153179075,7.187997727,7.230264836
+Indonesia,IDN,"Population ages 30-34, male (% of male population)",SP.POP.3034.MA.5Y,8.040888526,7.91354001,7.793523507
+Indonesia,IDN,"Population ages 20-24, male (% of male population)",SP.POP.2024.MA.5Y,8.288345476,8.278749334,8.243900177
+Indonesia,IDN,"Population ages 15-64, male (% of male population)",SP.POP.1564.MA.ZS,67.61375115,67.74622616,67.86548295
+Indonesia,IDN,"Population ages 15-19, male (% of male population)",SP.POP.1519.MA.5Y,8.485349276,8.385112521,8.31026434
+Indonesia,IDN,"Population ages 05-09, male (% of male population)",SP.POP.0509.MA.5Y,9.192069364,9.135466625,9.051530945
+Indonesia,IDN,"Population ages 0-14, male (% of male population)",SP.POP.0014.MA.ZS,26.93128001,26.69319921,26.44749636
+Indonesia,IDN,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,9.048558592,8.835490069,8.646157737
+Indonesia,IDN,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,76.318713,77.323016,77.587465
+Indonesia,IDN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.898,72.403,72.597
+Indonesia,IDN,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,199.216,193.961,192.873
+Indonesia,IDN,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",NV.AGR.EMPL.KD,3262.872447,3451.353925,3600.50673
+Indonesia,IDN,External balance on goods and services (current LCU),NE.RSB.GNFS.CN,1.36E14,-1.59E14,-7.04E13
+Indonesia,IDN,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,8.067946249,12.13601614,-7.126940518
+Indonesia,IDN,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,33.7105948,34.57058583,33.78014238
+Indonesia,IDN,Gross capital formation (current LCU),NE.GDI.TOTL.CN,4.58E15,5.13E15,5.35E15
+Indonesia,IDN,Changes in inventories (current US$),NE.GDI.STKB.CD,1.5741642942E10,2.3785561274E10,1.6039586438E10
+Indonesia,IDN,Gross fixed capital formation (constant 2015 US$),NE.GDI.FTOT.KD,3.13E11,3.34E11,3.49E11
+Indonesia,IDN,Exports of goods and services (constant 2015 US$),NE.EXP.GNFS.KD,1.95E11,2.08E11,2.07E11
+Indonesia,IDN,Gross national expenditure (constant LCU),NE.DAB.TOTL.KN,9.64E15,1.02E16,1.07E16
+Indonesia,IDN,Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,141.142862,145.6673157,149.3513392
+Indonesia,IDN,Final consumption expenditure (constant 2015 US$),NE.CON.TOTL.KD,6.31E11,6.64E11,6.96E11
+Indonesia,IDN,"Households and NPISHs Final consumption expenditure, PPP (constant 2017 international $)",NE.CON.PRVT.PP.KD,1.53E12,1.61E12,1.69E12
+Indonesia,IDN,Households and NPISHs Final consumption expenditure (constant LCU),NE.CON.PRVT.KN,5.49E15,5.77E15,6.07E15
+Indonesia,IDN,Households and NPISHs Final consumption expenditure (current LCU),NE.CON.PRVT.CN,7.78E15,8.46E15,9.17E15
+Indonesia,IDN,General government final consumption expenditure (annual % growth),NE.CON.GOVT.KD.ZG,2.124728287,4.820725297,3.267844749
+Indonesia,IDN,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,9.5E7,1.5E7,9000000.0
+Indonesia,IDN,Military expenditure (current USD),MS.MIL.XPND.CD,8.79752845E9,7.493744633E9,8.154244768E9
+Indonesia,IDN,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,2.350075606,3.322807092,3.814917355
+Indonesia,IDN,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,164.5351584,119.6084851,126.5946679
+Indonesia,IDN,Rail lines (total route-km),IS.RRS.TOTL.KM,4748.742,5483.312,5483.0
+Indonesia,IDN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1052.36048,1131.913455,981.74186
+Indonesia,IDN,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),IQ.SPI.PIL3,68.9125,75.63125,74.8875
+Indonesia,IDN,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE,80.0,80.0,80.0
+Indonesia,IDN,"Patent applications, nonresidents",IP.PAT.NRES,7032.0,8347.0,8388.0
+Indonesia,IDN,Public private partnerships investment in water and sanitation (current US$),IE.PPN.WATR.CD,1.572E8,3.1462E8,8.238E7
+Indonesia,IDN,Investment in water and sanitation with private participation (current US$),IE.PPI.WATR.CD,1.572E8,3.1462E8,8.238E7
+Indonesia,IDN,Procedures to build a warehouse (number),IC.WRH.PROC,18.0,18.0,18.0
+Indonesia,IDN,Tax payments (number),IC.TAX.PAYM,42.0,42.0,26.0
+Indonesia,IDN,Start-up procedures to register a business (number),IC.REG.PROC,12.0,11.0,11.0
+Indonesia,IDN,Cost of business start-up procedures (% of GNI per capita),IC.REG.COST.PC.ZS,11.0,6.1,5.7
+Indonesia,IDN,Time required to register property (days),IC.PRP.DURS,27.64,30.64,30.64
+Indonesia,IDN,"Government Effectiveness: Percentile Rank, Lower Bound of 90% Confidence Interval",GE.PER.RNK.LOWER,40.38461685,46.63461685,43.75
+Indonesia,IDN,Subsidies and other transfers (% of expense),GC.XPN.TRFT.ZS,50.35972311,48.69207088,49.59981985
+Indonesia,IDN,Other expense (% of expense),GC.XPN.OTHR.ZS,7.911107431,10.99718589,11.23666012
+Indonesia,IDN,Interest payments (current LCU),GC.XPN.INTP.CN,2.16E14,2.58E14,2.75E14
+Indonesia,IDN,Compensation of employees (current LCU),GC.XPN.COMP.CN,3.1E14,3.43E14,3.73E14
+Indonesia,IDN,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,9.87729308,10.23014302,9.751961808
+Indonesia,IDN,Taxes on international trade (% of revenue),GC.TAX.INTT.RV.ZS,2.318601866,2.347080421,2.059490135
+Indonesia,IDN,Taxes on goods and services (% value added of industry and services),GC.TAX.GSRV.VA.ZS,5.630073742,5.654224565,5.350208817
+Indonesia,IDN,Taxes on exports (current LCU),GC.TAX.EXPT.CN,4.15E12,6.77E12,3.53E12
+Indonesia,IDN,Social contributions (current LCU),GC.REV.SOCL.CN,0.0,0.0,0.0
+Indonesia,IDN,Net lending (+) / net borrowing (-) (current LCU),GC.NLD.TOTL.CN,-3.41E14,-2.69E14,-3.48E14
+Indonesia,IDN,"Net incurrence of liabilities, total (current LCU)",GC.LBL.TOTL.CN,4.29E14,3.72E14,4.38E14
+Indonesia,IDN,Net acquisition of financial assets (current LCU),GC.AST.TOTL.CN,8.85E13,1.03E14,8.99E13
+Indonesia,IDN,Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,46.96393572,47.23182828,46.50632361
+Indonesia,IDN,Real interest rate (%),FR.INR.RINR,6.501563996,6.471249839,8.62940479
+Indonesia,IDN,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,3.110191149,3.353069238,3.357672501
+Indonesia,IDN,Monetary Sector credit to private sector (% GDP),FM.AST.PRVT.GD.ZS,32.47067249,32.80991282,32.537945
+Indonesia,IDN,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,0.05478871,-0.192304261,1.556017629
+Indonesia,IDN,"Total reserves (includes gold, current US$)",FI.RES.TOTL.CD,1.3E11,1.21E11,1.29E11
+Indonesia,IDN,"Borrowers from commercial banks (per 1,000 adults)",FB.CBK.BRWR.P3,414.7511756,171.3223129,168.7154312
+Indonesia,IDN,Bank nonperforming loans to total gross loans (%),FB.AST.NPER.ZS,2.444048435,2.205798651,2.339357504
+Indonesia,IDN,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,7632.169231,7558.781829,7488.235214
+Indonesia,IDN,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,29.69654528,29.69654528,29.69654528
+Indonesia,IDN,"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",ER.GDP.FWTL.M3.KD,4.267171365,4.487967252,4.713231239
+Indonesia,IDN,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,7.194417458,7.117827584,7.048945068
+Indonesia,IDN,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,893588.3,958076.1,1002369.0
+Indonesia,IDN,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1021.0,1064.0,1084.0
+Indonesia,IDN,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.15,21.05,19.09
+Indonesia,IDN,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.88999939,99.87999725,99.88999939
+Indonesia,IDN,"Access to clean fuels and technologies for cooking, urban (% of urban population)",EG.CFT.ACCS.UR.ZS,88.9,90.4,91.8
+Indonesia,IDN,"Public and publicly guaranteed debt service (% of exports of goods, services and primary income)",DT.TDS.DPPG.XP.ZS,9.181889224,7.856453583,10.17124638
+Indonesia,IDN,"IMF repurchases and charges (TDS, current US$)",DT.TDS.DIMF.CD,1468556.0,2650808.4,2.71860003E7
+Indonesia,IDN,Net ODA received (% of central government expense),DT.ODA.ODAT.XP.ZS,0.192936936,0.623280966,-0.427451953
+Indonesia,IDN,Net ODA received (% of GNI),DT.ODA.ODAT.GN.ZS,0.028490867,0.095201541,-0.063900437
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, United Kingdom (current US$)",DC.DAC.GBRL.CD,3.275E7,3.993000031E7,4.275E7
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Denmark (current US$)",DC.DAC.DNKL.CD,1.239000034E7,7659999.847,3799999.952
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, European Union institutions (current US$)",DC.DAC.CECL.CD,2.635000038E7,1.948999977E7,1.518000031E7
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Australia (current US$)",DC.DAC.AUSL.CD,2.075299988E8,2.627200012E8,1.875200043E8
+Indonesia,IDN,"Listed domestic companies, total",CM.MKT.LDOM.NO,566.0,619.0,668.0
+Indonesia,IDN,Control of Corruption: Standard Error,CC.STD.ERR,0.123139113,0.128457621,0.13559787
+Indonesia,IDN,Control of Corruption: Number of Sources,CC.NO.SRC,13.0,13.0,13.0
+Indonesia,IDN,"Personal transfers, receipts (BoP, current US$)",BX.TRF.PWKR.CD,8.761207216E9,1.097424197E10,1.1435162307E10
+Indonesia,IDN,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,2.0510310832E10,1.8909826044E10,2.4993551748E10
+Indonesia,IDN,"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,4.980973722E7,6.119466071E7,5.891611308E7
+Indonesia,IDN,"Exports of goods and services (BoP, current US$)",BX.GSR.GNFS.CD,1.94E11,2.12E11,2.0E11
+Indonesia,IDN,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,9.967379544E8,1.225741464E9,1.320695756E9
+Indonesia,IDN,"Net secondary income (BoP, current US$)",BN.TRF.CURR.CD,4.500175877E9,6.895406553E9,7.628922415E9
+Indonesia,IDN,"Net errors and omissions (BoP, current US$)",BN.KAC.EOMS.CD,-9.503639089E8,-1.717347343E9,-1.647654185E9
+Indonesia,IDN,"Net financial account (BoP, current US$)",BN.FIN.TOTL.CD,-1.7099801611E10,-3.2253312634E10,-3.1887652359E10
+Indonesia,IDN,"Secondary income, other sectors, payments (BoP, current US$)",BM.TRF.PRVT.CD,5.461635436E9,5.324890035E9,5.04760643E9
+Indonesia,IDN,"Transport services (% of service imports, BoP)",BM.GSR.TRAN.ZS,31.60155259,32.97773022,29.63253583
+Indonesia,IDN,"Goods imports (BoP, current US$)",BM.GSR.MRCH.CD,1.5E11,1.81E11,1.65E11
+Indonesia,IDN,"Communications, computer, etc. (% of service imports, BoP)",BM.GSR.CMCP.ZS,37.75165623,34.76245333,37.10766921
+Indonesia,IDN,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,159.79,166.82,166.78
+Indonesia,IDN,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2702.0,2702.0,2702.0
+Indonesia,IDN,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.099433324,0.098477219,0.097558125
+Indonesia,IDN,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,253.790843,263.4694065,224.1813791
+Indonesia,IDN,"Internally displaced persons, total displaced by conflict and violence (number of people)",VC.IDP.TOCV,13000.0,16000.0,40000.0
+Indonesia,IDN,Voice and Accountability: Standard Error,VA.STD.ERR,0.125947863,0.128772423,0.123332441
+Indonesia,IDN,Voice and Accountability: Number of Sources,VA.NO.SRC,13.0,13.0,12.0
+Indonesia,IDN,High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,8.446123171,8.212824228,8.092030411
+Indonesia,IDN,Export value index (2000 = 100),TX.VAL.MRCH.XD.WD,258.1084112,275.406721,256.384257
+Indonesia,IDN,Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports),TX.VAL.MRCH.R6.ZS,1.758644186,1.662695431,1.780546002
+Indonesia,IDN,Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports),TX.VAL.MRCH.R2.ZS,1.676883997,1.742940861,1.564663322
+Indonesia,IDN,Merchandise exports (current US$),TX.VAL.MRCH.CD.WT,1.69E11,1.8E11,1.68E11
+Indonesia,IDN,Insurance and financial services (% of commercial service exports),TX.VAL.INSF.ZS.WT,2.929033639,2.692096532,2.029072115
+Indonesia,IDN,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,5.990299743,5.094333819,5.454534399
+Indonesia,IDN,Net barter terms of trade index (2000 = 100),TT.PRI.MRCH.XD.WD,117.463601,115.8501958,115.376208
+Indonesia,IDN,"Computer, communications and other services (% of commercial service imports)",TM.VAL.OTHR.ZS.WT,37.53173395,34.67812586,36.9796727
+Indonesia,IDN,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",TM.VAL.MRCH.RS.ZS,1.127160923,1.9465193,2.236152138
+Indonesia,IDN,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),TM.VAL.MRCH.R3.ZS,2.38465076,2.020910878,2.490130364
+Indonesia,IDN,Merchandise imports from high-income economies (% of total merchandise imports),TM.VAL.MRCH.HI.ZS,51.71040673,50.79212644,49.68191188
+Indonesia,IDN,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,64.87834817,65.01615909,68.02556561
+Indonesia,IDN,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,10.99181371,10.20872835,10.61599843
+Indonesia,IDN,"Tariff rate, applied, weighted mean, primary products (%)",TM.TAX.TCOM.WM.AR.ZS,2.28,2.29,2.57
+Indonesia,IDN,"Share of tariff lines with international peaks, primary products (%)",TM.TAX.TCOM.IP.ZS,10.87695,10.52943,11.18996
+Indonesia,IDN,"Tariff rate, applied, weighted mean, all products (%)",TM.TAX.MRCH.WM.AR.ZS,2.06,2.0,2.0
+Indonesia,IDN,"Share of tariff lines with international peaks, all products (%)",TM.TAX.MRCH.IP.ZS,12.02772,7.871694,8.24086
+Indonesia,IDN,"Tariff rate, applied, weighted mean, manufactured products (%)",TM.TAX.MANF.WM.AR.ZS,1.95,1.9,1.82
+Indonesia,IDN,"Share of tariff lines with international peaks, manufactured products (%)",TM.TAX.MANF.IP.ZS,12.1778,7.572592,7.879144
+Indonesia,IDN,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,32.0726653,35.38732365,30.288539
+Indonesia,IDN,"International tourism, receipts for travel items (current US$)",ST.INT.TVLR.CD,1.3139E10,1.6426E10,1.6911E10
+Indonesia,IDN,"International tourism, receipts (current US$)",ST.INT.RCPT.CD,1.4691E10,1.7915E10,1.8405E10
+Indonesia,IDN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.659,55.325,55.985
+Indonesia,IDN,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.460440473,-0.513557189,-0.550668038
+Indonesia,IDN,"Population, male (% of total population)",SP.POP.TOTL.MA.ZS,50.37655097,50.3756582,50.37354116
+Indonesia,IDN,"Population, total",SP.POP.TOTL,2.64498852E8,2.67066843E8,2.69582878E8
+Indonesia,IDN,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,39.3311949,38.91489592,38.49501127
+Indonesia,IDN,"Population ages 80 and above, male (% of male population)",SP.POP.80UP.MA.5Y,0.712272999,0.730575855,0.748102471
+Indonesia,IDN,"Population ages 70-74, male (% of male population)",SP.POP.7074.MA.5Y,1.539078284,1.544317505,1.557688342
+Indonesia,IDN,"Population ages 65 and above, male (% of male population)",SP.POP.65UP.MA.ZS,5.454968843,5.560574633,5.687020695
+Indonesia,IDN,"Population ages 65-69, male (% of male population)",SP.POP.6569.MA.5Y,2.202553726,2.281712318,2.375179312
+Indonesia,IDN,"Population ages 55-59, male (% of male population)",SP.POP.5559.MA.5Y,4.486090735,4.610080314,4.727042818
+Indonesia,IDN,"Population ages 45-49, male (% of male population)",SP.POP.4549.MA.5Y,6.460093605,6.507730828,6.551679363
+Indonesia,IDN,"Population ages 35-39, male (% of male population)",SP.POP.3539.MA.5Y,7.817124327,7.83548546,7.831975716
+Indonesia,IDN,"Population ages 25-29, male (% of male population)",SP.POP.2529.MA.5Y,8.015834378,7.947705414,7.891102315
+Indonesia,IDN,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,67.21749143,67.33735376,67.44371577
+Indonesia,IDN,"Population ages 15-64, female (% of female population)",SP.POP.1564.FE.ZS,66.81521793,66.92229099,67.01559926
+Indonesia,IDN,"Population ages 10-14, male (% of male population)",SP.POP.1014.MA.5Y,8.69065205,8.722242514,8.749807675
+Indonesia,IDN,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,26.43744248,26.20426102,25.96246598
+Indonesia,IDN,"Population ages 0-14, female (% of female population)",SP.POP.0014.FE.ZS,25.93611032,25.70792026,25.47013391
+Indonesia,IDN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.001,68.311,68.481
+Indonesia,IDN,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,21.6,20.8,20.1
+Indonesia,IDN,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,7.579,7.496,7.539
+Indonesia,IDN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,36.012,35.293,34.867
+Indonesia,IDN,Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,7.6,7.0,6.2
+Indonesia,IDN,Refugee population by country or territory of origin,SM.POP.REFG.OR,12485.0,12148.0,12039.0
+Indonesia,IDN,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.971,4.523,3.748
+Indonesia,IDN,"Share of youth not in education, employment or training, total (% of youth population)",SL.UEM.NEET.ZS,21.45,21.74,20.55
+Indonesia,IDN,"Time to import, documentary compliance (hours)",IC.IMP.TMDC,106.22,106.22,106.22
+Indonesia,IDN,"Cost to export, border compliance (US$)",IC.EXP.CSBC.CD,253.74,253.74,211.0714
+Indonesia,IDN,Depth of credit information index (0=low to 8=high),IC.CRD.INFO.XQ,7.0,8.0,8.0
+Indonesia,IDN,Business extent of disclosure index (0=less disclosure to 10=more disclosure),IC.BUS.DISC.XQ,10.0,10.0,10.0
+Indonesia,IDN,Government Effectiveness: Standard Error,GE.STD.ERR,0.201371759,0.209266901,0.215857267
+Indonesia,IDN,Government Effectiveness: Number of Sources,GE.NO.SRC,9.0,9.0,9.0
+Indonesia,IDN,Expense (% of GDP),GC.XPN.TOTL.GD.ZS,14.2990291,14.81909636,14.49468875
+Indonesia,IDN,Interest payments (% of expense),GC.XPN.INTP.ZS,11.14053121,11.73045987,11.98910405
+Indonesia,IDN,Goods and services expense (current LCU),GC.XPN.GSRV.CN,2.85E14,2.85E14,2.51E14
+Indonesia,IDN,"Taxes on income, profits and capital gains (% of revenue)",GC.TAX.YPKG.RV.ZS,38.81973265,38.59531784,39.39581791
+Indonesia,IDN,Other taxes (% of revenue),GC.TAX.OTHR.RV.ZS,1.313641997,1.282865996,1.368146667
+Indonesia,IDN,Customs and other import duties (% of tax revenue),GC.TAX.IMPT.ZS,2.568975183,2.558756814,2.386337647
+Indonesia,IDN,Taxes on goods and services (current LCU),GC.TAX.GSRV.CN,6.35E14,6.98E14,7.05E14
+Indonesia,IDN,"Revenue, excluding grants (current LCU)",GC.REV.XGRT.CN,1.65E15,1.93E15,1.96E15
+Indonesia,IDN,Grants and other revenue (current LCU),GC.REV.GOTR.CN,3.24E14,4.25E14,4.16E14
+Indonesia,IDN,"Central government debt, total (current LCU)",GC.DOD.TOTL.CN,4.41E15,4.92E15,5.34E15
+Indonesia,IDN,"Claims on central government, etc. (% GDP)",FS.AST.CGOV.GD.ZS,5.656732514,5.155042208,5.529465235
+Indonesia,IDN,Lending interest rate (%),FR.INR.LEND,11.07333333,10.53666667,10.36583333
+Indonesia,IDN,Consumer price index (2010 = 100),FP.CPI.TOTL,142.1824123,146.7298984,151.1766751
+Indonesia,IDN,Broad money (current LCU),FM.LBL.BMNY.CN,5.42E15,5.76E15,6.14E15
+Indonesia,IDN,Net domestic credit (current LCU),FM.AST.DOMS.CN,5.72E15,6.35E15,6.75E15
+Indonesia,IDN,Total reserves in months of imports,FI.RES.TOTL.MO,7.08716242,5.595607588,6.317774344
+Indonesia,IDN,Domestic credit to private sector by banks (% of GDP),FD.AST.PRVT.GD.ZS,32.41745701,32.73983289,32.47411868
+Indonesia,IDN,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,14.61829829,12.82311218,13.40391639
+Indonesia,IDN,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,3.05732315,3.05732315,3.057332
+Indonesia,IDN,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,11.02863229,11.02863229,11.02863229
+Indonesia,IDN,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,10.69014306,10.69014306,10.69014306
+Indonesia,IDN,Capture fisheries production (metric tons),ER.FSH.CAPT.MT,6946132.04,7155854.27,7192713.78
+Indonesia,IDN,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.28379111,13.41330417,13.55158913
+Indonesia,IDN,Population density (people per sq. km of land area),EN.POP.DNST,140.8767911,142.2445488,143.5846338
+Indonesia,IDN,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.178749538,0.185135246,0.186050602
+Indonesia,IDN,CO2 emissions (kt),EN.ATM.CO2E.KT,517323.6,576991.5,619840.7
+Indonesia,IDN,Voice and Accountability: Percentile Rank,VA.PER.RNK,51.23152542,51.6908226,51.6908226
+Indonesia,IDN,Transport services (% of commercial service exports),TX.VAL.TRAN.ZS.WT,14.07697371,11.78213849,12.79152385
+Indonesia,IDN,"Computer, communications and other services (% of commercial service exports)",TX.VAL.OTHR.ZS.WT,29.7227579,31.65222119,30.47064471
+Indonesia,IDN,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",TX.VAL.MRCH.RS.ZS,1.242158882,0.02803798,0.011779734
+Indonesia,IDN,Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports),TX.VAL.MRCH.R3.ZS,1.89238831,1.655578633,1.769915468
+Indonesia,IDN,Merchandise exports to high-income economies (% of total merchandise exports),TX.VAL.MRCH.HI.ZS,51.36417729,52.38175982,50.14133315
+Indonesia,IDN,Manufactures exports (% of merchandise exports),TX.VAL.MANF.ZS.UN,41.87751923,43.11955364,46.29144358
+Indonesia,IDN,Food exports (% of merchandise exports),TX.VAL.FOOD.ZS.UN,23.18610091,20.44881686,20.30346231
+Indonesia,IDN,Medium and high-tech exports (% manufactured exports),TX.MNF.TECH.ZS.UN,28.08890343,28.71329378,30.71137083
+Indonesia,IDN,Commercial service imports (current US$),TM.VAL.SERV.CD.WT,3.2591673212E10,3.7643260814E10,3.9202593616E10
+Indonesia,IDN,Merchandise imports by the reporting economy (current US$),TM.VAL.MRCH.WL.CD,1.57E11,1.92E11,1.74E11
+Indonesia,IDN,Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports),TM.VAL.MRCH.R4.ZS,0.844938184,0.736125655,0.410075514
+Indonesia,IDN,Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports),TM.VAL.MRCH.OR.ZS,9.975857923,10.74118384,9.460889964
+Indonesia,IDN,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,3.708116877,3.63676155,3.558940262
+Indonesia,IDN,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.24174346,16.73750572,13.71569126
+Indonesia,IDN,"Tariff rate, most favored nation, weighted mean, primary products (%)",TM.TAX.TCOM.WM.FN.ZS,3.61,3.77,4.14
+Indonesia,IDN,"Tariff rate, applied, simple mean, primary products (%)",TM.TAX.TCOM.SM.AR.ZS,6.82,7.39,10.66
+Indonesia,IDN,"Tariff rate, most favored nation, weighted mean, all products (%)",TM.TAX.MRCH.WM.FN.ZS,5.67,5.89,6.14
+Indonesia,IDN,"Tariff rate, applied, simple mean, all products (%)",TM.TAX.MRCH.SM.AR.ZS,5.86,6.25,6.71
+Indonesia,IDN,"Tariff rate, most favored nation, weighted mean, manufactured products (%)",TM.TAX.MANF.WM.FN.ZS,6.64,6.76,6.91
+Indonesia,IDN,"Tariff rate, applied, simple mean, manufactured products (%)",TM.TAX.MANF.SM.AR.ZS,5.75,6.11,6.19
+Indonesia,IDN,Import volume index (2000 = 100),TM.QTY.MRCH.XD.WD,217.2275741,242.9502051,228.7305305
+Indonesia,IDN,"International tourism, expenditures for travel items (current US$)",ST.INT.TVLX.CD,8.289E9,1.0314E10,1.1308E10
+Indonesia,IDN,"International tourism, receipts (% of total exports)",ST.INT.RCPT.XP.ZS,7.564485471,8.453189767,9.198053424
+Indonesia,IDN,Rural population (% of total population),SP.RUR.TOTL.ZS,45.341,44.675,44.015
+Indonesia,IDN,"Population, female",SP.POP.TOTL.FE.IN,1.31253454E8,1.32530163E8,1.33784436E8
+Indonesia,IDN,Population growth (annual %),SP.POP.GROW,1.006439524,0.966206436,0.937689274
+Indonesia,IDN,Sex ratio at birth (male births per female births),SP.POP.BRTH.MF,1.059,1.06,1.06
+Indonesia,IDN,"Population ages 75-79, female (% of female population)",SP.POP.7579.FE.5Y,1.449070443,1.462960932,1.475007153
+Indonesia,IDN,"Population ages 65 and above, total",SP.POP.65UP.TO,1.6782627E7,1.7248206E7,1.7775805E7
+Indonesia,IDN,"Population ages 65 and above, female",SP.POP.65UP.FE.IN,9514132.0,9767193.0,1.005292E7
+Indonesia,IDN,"Population ages 60-64, female (% of female population)",SP.POP.6064.FE.5Y,3.526656539,3.658658835,3.790784752
+Indonesia,IDN,"Population ages 50-54, female (% of female population)",SP.POP.5054.FE.5Y,5.676789678,5.76477864,5.844133842
+Indonesia,IDN,"Population ages 40-44, female (% of female population)",SP.POP.4044.FE.5Y,7.108995803,7.130943494,7.158739302
+Indonesia,IDN,"Population ages 30-34, female (% of female population)",SP.POP.3034.FE.5Y,7.802088423,7.668989691,7.545381437
+Indonesia,IDN,"Population ages 20-24, female (% of female population)",SP.POP.2024.FE.5Y,7.993353104,7.988406035,7.956461767
+Indonesia,IDN,"Population ages 15-64, male",SP.POP.1564.MA.IN,9.0092212E7,9.1143524E7,9.2160269E7
+Indonesia,IDN,"Population ages 15-19, female (% of female population)",SP.POP.1519.FE.5Y,8.16951685,8.071067596,7.998036109
+Indonesia,IDN,"Population ages 05-09, female (% of female population)",SP.POP.0509.FE.5Y,8.857147519,8.801803137,8.719659662
+Indonesia,IDN,"Population ages 0-14, male",SP.POP.0014.MA.IN,3.5884692E7,3.5912144E7,3.5915288E7
+Indonesia,IDN,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y,8.714713171,8.508714007,8.323903612
+Indonesia,IDN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.262,2.234,2.215
+Indonesia,IDN,"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN,23.8,23.0,22.2
+Indonesia,IDN,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,151.493,143.61,142.276
+Indonesia,IDN,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,1.1,1.1,1.1
+Indonesia,IDN,"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",SH.STA.POIS.P5.MA,0.5,0.5,0.5
+Indonesia,IDN,"Prevalence of overweight (modeled estimate, % of children under 5)",SH.STA.OWGH.ME.ZS,10.3,10.7,10.9
+Indonesia,IDN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.462625801,0.432861609,0.324109012
+Indonesia,IDN,"Nurses and midwives (per 1,000 people)",SH.MED.NUMW.P3,2.0532,3.1154,3.807
+Indonesia,IDN,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,85.0,85.0,85.0
+Indonesia,IDN,"Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24)",SH.HIV.INCD.YG.P3,0.38,0.35,0.33
+Indonesia,IDN,Children (ages 0-14) newly infected with HIV,SH.HIV.INCD.14,3700.0,3500.0,3400.0
+Indonesia,IDN,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,0.2,0.2,0.1
+Indonesia,IDN,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)",SH.DYN.NCOM.FE.ZS,21.6,21.3,21.1
+Indonesia,IDN,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4,0.4,0.4
+Indonesia,IDN,"Probability of dying among adolescents ages 10-14 years (per 1,000)",SH.DYN.1014,2.2,2.2,2.1
+Indonesia,IDN,Number of under-five deaths,SH.DTH.MORT,119844.0,113871.0,108758.0
+Indonesia,IDN,Number of deaths ages 20-24 years,SH.DTH.2024,22833.0,22796.0,22743.0
+Indonesia,IDN,Prevalence of anemia among women of reproductive age (% of women ages 15-49),SH.ANM.ALLW.ZS,29.6,30.4,31.2
+Indonesia,IDN,"Secondary education, duration (years)",SE.SEC.DURS,6.0,6.0,6.0
+Indonesia,IDN,"Primary education, teachers",SE.PRM.TCHR,1827213.0,1727377.0,1771614.0
+Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,105.9114304,106.41082,90.98205566
+Indonesia,IDN,"Primary education, duration (years)",SE.PRM.DURS,6.0,6.0,6.0
+Indonesia,IDN,"Compulsory education, duration (years)",SE.COM.DURS,9.0,9.0,9.0
+Indonesia,IDN,External balance on goods and services (current US$),NE.RSB.GNFS.CD,1.0147166698E10,-1.1139964477E10,-4.976882662E9
+Indonesia,IDN,Imports of goods and services (constant 2015 US$),NE.IMP.GNFS.KD,1.89E11,2.12E11,1.96E11
+Indonesia,IDN,Gross capital formation (constant LCU),NE.GDI.TOTL.KN,3.36E15,3.64E15,3.73E15
+Indonesia,IDN,Gross capital formation (current US$),NE.GDI.TOTL.CD,3.42E11,3.6E11,3.78E11
+Indonesia,IDN,Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,32.16063886,32.28849709,32.34688455
+Indonesia,IDN,Gross fixed capital formation (current LCU),NE.GDI.FTOT.CN,4.37E15,4.79E15,5.12E15
+Indonesia,IDN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,20.17730444,21.0027465,18.5915278
+Indonesia,IDN,Exports of goods and services (current LCU),NE.EXP.GNFS.CN,2.74E15,3.12E15,2.94E15
+Indonesia,IDN,Gross national expenditure (constant 2015 US$),NE.DAB.TOTL.KD,9.57E11,1.02E12,1.06E12
+Indonesia,IDN,Final consumption expenditure (% of GDP),NE.CON.TOTL.ZS,66.39614413,66.00112744,66.73893587
+Indonesia,IDN,Final consumption expenditure (current LCU),NE.CON.TOTL.CN,9.02E15,9.79E15,1.06E16
+Indonesia,IDN,"Households and NPISHs Final consumption expenditure, PPP (current international $)",NE.CON.PRVT.PP.CD,1.53E12,1.65E12,1.77E12
+Indonesia,IDN,Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,4.981635727,5.136891243,5.160699211
+Indonesia,IDN,Households and NPISHs Final consumption expenditure (current US$),NE.CON.PRVT.CD,5.82E11,5.94E11,6.48E11
+Indonesia,IDN,General government final consumption expenditure (constant 2015 US$),NE.CON.GOVT.KD,8.5590618904E10,8.9716707521E10,9.2648510237E10
+Indonesia,IDN,Military expenditure (% of general government expenditure),MS.MIL.XPND.ZS,5.223835618,4.322842782,4.447142324
+Indonesia,IDN,Armed forces personnel (% of total labor force),MS.MIL.TOTL.TF.ZS,0.520961185,0.506647952,0.496321888
+Indonesia,IDN,Individuals using the Internet (% of population),IT.NET.USER.ZS,32.33580625,39.90463864,47.69064898
+Indonesia,IDN,Fixed broadband subscriptions,IT.NET.BBND,6215923.0,8874116.0,1.0284364E7
+Indonesia,IDN,Mobile cellular subscriptions,IT.CEL.SETS,4.35193605E8,3.19434605E8,3.41277549E8
+Indonesia,IDN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,15558.0,16932.0,29066.0
+Indonesia,IDN,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,892801.0,959307.381,808265.0
+Indonesia,IDN,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),IQ.SPI.PIL2,86.26666667,87.33333333,87.33333333
+Indonesia,IDN,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC,100.0,96.6667,96.6667
+Indonesia,IDN,"Trademark applications, resident, by count",IP.TMK.RSCT,51918.0,58659.0,40758.0
+Indonesia,IDN,Scientific and technical journal articles,IP.JRN.ARTC.SC,12432.41,21263.52,30446.15
+Indonesia,IDN,Time required to build a warehouse (days),IC.WRH.DURS,200.24,200.13,200.13
+Indonesia,IDN,Other taxes payable by businesses (% of commercial profits),IC.TAX.OTHR.CP.ZS,0.4,0.4,0.4
+Indonesia,IDN,Time to prepare and pay taxes (hours),IC.TAX.DURS,207.5,207.5,191.0
+Indonesia,IDN,"Time required to start a business, male (days)",IC.REG.DURS.MA,24.54,21.0,12.64
+Indonesia,IDN,"Cost of business start-up procedures, male (% of GNI per capita)",IC.REG.COST.PC.MA.ZS,11.0,6.1,5.7
+Indonesia,IDN,Time required to enforce a contract (days),IC.LGL.DURS,403.2,403.2,403.2
+Indonesia,IDN,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,12.56055351,17.03700074,16.24664521
+Indonesia,IDN,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.13999939,98.51000214,98.84999847
+Indonesia,IDN,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,75.1,78.7,81.85
+Indonesia,IDN,"Multilateral debt service (TDS, current US$)",DT.TDS.MLAT.CD,1.915724216E9,2.404549342E9,3.301090189E9
+Indonesia,IDN,"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,9.182624291,7.857651777,10.18435001
+Indonesia,IDN,"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,5.8806915986E10,5.5468651176E10,8.1769164767E10
+Indonesia,IDN,Net official development assistance received (constant 2020 US$),DT.ODA.ODAT.KD,2.56230011E8,9.067700195E8,-7.29460022E8
+Indonesia,IDN,"Net official flows from UN agencies, WHO (current US$)",DT.NFL.WHOL.CD,3024942.16,3715301.275,3881353.378
+Indonesia,IDN,"Net official flows from UN agencies, UNICEF (current US$)",DT.NFL.UNCF.CD,5978990.078,6180011.272,5038000.107
+Indonesia,IDN,"PPG, private creditors (NFL, current US$)",DT.NFL.PRVT.CD,1.6674902E10,1.9044949E10,1.9348301E10
+Indonesia,IDN,"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,1.1379968E10,1.1284182E10,3.545904E9
+Indonesia,IDN,"IFC, private nonguaranteed (NFL, current US$)",DT.NFL.NIFC.CD,1.21845161E8,7.6288401E7,3.6999806E7
+Indonesia,IDN,"Net financial flows, IBRD (NFL, current US$)",DT.NFL.MIBR.CD,8.02922E8,7.67274E8,8.06984E8
+Indonesia,IDN,"Net official flows from UN agencies, IFAD (current US$)",DT.NFL.IFAD.CD,1.115312958E7,-172730.5651,-238064.5722
+Indonesia,IDN,"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,2.1256767E10,1.6496033E10,2.3767413E10
+Indonesia,IDN,Short-term debt (% of total external debt),DT.DOD.DSTC.ZS,13.2171,12.6347,11.1409
+Indonesia,IDN,"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,1.95E11,2.15E11,2.34E11
+Indonesia,IDN,External debt stocks (% of GNI),DT.DOD.DECT.GN.ZS,35.95182023,37.53799552,37.05781581
+Indonesia,IDN,Prevalence of severe food insecurity in the population (%),SN.ITK.SVFI.ZS,0.9,0.8,0.7
+Indonesia,IDN,Net migration,SM.POP.NETM,-39282.0,-39878.0,-40567.0
+Indonesia,IDN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.78,4.39,3.59
+Indonesia,IDN,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.48,4.183,3.348
+Indonesia,IDN,"Share of youth not in education, employment or training, female (% of female youth population)",SL.UEM.NEET.FE.ZS,28.03,27.86,26.12
+Indonesia,IDN,Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,2.61,2.97,2.38
+Indonesia,IDN,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,4.02,4.62,4.01
+Indonesia,IDN,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,14.704,16.329,13.802
+Indonesia,IDN,"Labor force, total",SL.TLF.TOTL.IN,1.29760147E8,1.33327293E8,1.36201932E8
+Indonesia,IDN,"Part time employment, female (% of total female employment)",SL.TLF.PART.FE.ZS,41.15,42.15,42.39
+Indonesia,IDN,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.ZS,66.69,67.65,68.24
+Indonesia,IDN,Ratio of female to male labor force participation rate (%) (modeled ILO estimate),SL.TLF.CACT.FM.ZS,63.71057833,64.59537396,65.309831
+Indonesia,IDN,Labor force with basic education (% of total working-age population with basic education),SL.TLF.BASC.ZS,61.63,62.84,63.34
+Indonesia,IDN,"Labor force with advanced education, male (% of male working-age population with advanced education)",SL.TLF.ADVN.MA.ZS,91.02,88.16,90.16
+Indonesia,IDN,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,54.32,55.564,56.296
+Indonesia,IDN,"Labor force participation rate for ages 15-24, male (%) (national estimate)",SL.TLF.ACTI.1524.MA.NE.ZS,54.8,56.77,56.01
+Indonesia,IDN,"Employment in services, female (% of female employment) (modeled ILO estimate)",SL.SRV.EMPL.FE.ZS,54.5121,55.439,56.78884
+Indonesia,IDN,"Employment in industry, female (% of female employment) (modeled ILO estimate)",SL.IND.EMPL.FE.ZS,16.65976,16.9803,16.63944
+Indonesia,IDN,"Contributing family workers, female (% of female employment) (modeled ILO estimate)",SL.FAM.WORK.FE.ZS,25.25049,24.38706,24.15086
+Indonesia,IDN,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,48.80906,48.0952,48.25441
+Indonesia,IDN,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,42.136719,42.579455,42.490402
+Indonesia,IDN,"Employment to population ratio, 15+, male (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.MA.ZS,78.225,78.469,79.451
+Indonesia,IDN,"Employers, total (% of total employment) (modeled ILO estimate)",SL.EMP.MPYR.ZS,3.421001,3.570065,3.497849
+Indonesia,IDN,"Employment to population ratio, ages 15-24, total (%) (national estimate)",SL.EMP.1524.SP.NE.ZS,39.73,39.86,41.56
+Indonesia,IDN,"Employment to population ratio, ages 15-24, female (%) (national estimate)",SL.EMP.1524.SP.FE.NE.ZS,32.15,31.92,34.75
+Indonesia,IDN,Average transaction cost of sending remittances to a specific country (%),SI.RMT.COST.IB.ZS,7.133092731,6.847023219,6.080232
+Indonesia,IDN,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,7.9,6.7,6.0
+Indonesia,IDN,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,6.6,5.4,4.4
+Indonesia,IDN,Income share held by highest 10%,SI.DST.10TH.10,30.2,29.9,29.5
+Indonesia,IDN,Income share held by second 20%,SI.DST.02ND.20,10.6,10.7,10.9
+Indonesia,IDN,"Out-of-pocket expenditure per capita, PPP (current international $)",SH.XPD.OOPC.PP.CD,114.9628412,117.9387953,122.9206524
+Indonesia,IDN,Domestic general government health expenditure per capita (current US$),SH.XPD.GHED.PC.CD,51.83114059,54.47545987,59.0124997
+Indonesia,IDN,"External health expenditure per capita, PPP (current international $)",SH.XPD.EHEX.PP.CD,2.180548432,1.355371555,1.996762401
+Indonesia,IDN,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,111.5139618,111.9118729,120.5895844
+Indonesia,IDN,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,319.0,316.0,312.0
+Indonesia,IDN,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,3.7,3.7,3.7
+Indonesia,IDN,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,3.2,3.19,3.16
+Indonesia,IDN,Multilateral debt service (% of public and publicly guaranteed debt service),DT.TDS.MLAT.PG.ZS,10.44330261,13.83425985,15.64334472
+Indonesia,IDN,"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",DT.TDS.DPPG.CD,1.834404583E10,1.7381120266E10,2.1102201919E10
+Indonesia,IDN,"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,29.43508718,25.07242782,39.41267951
+Indonesia,IDN,"Net ODA received (% of imports of goods, services and primary income)",DT.ODA.ODAT.MP.ZS,0.127081303,0.372036576,-0.282573152
+Indonesia,IDN,Net official development assistance received (current US$),DT.ODA.ODAT.CD,2.801900024E8,9.626900024E8,-6.933699951E8
+Indonesia,IDN,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,2.801900024E8,9.626900024E8,-6.933699951E8
+Indonesia,IDN,"Net official flows from UN agencies, UNFPA (current US$)",DT.NFL.UNFP.CD,1856404.424,2746609.926,3365317.345
+Indonesia,IDN,"Net financial flows, RDB concessional (NFL, current US$)",DT.NFL.RDBC.CD,-1.31064E8,-1.24024E8,-9.2404E7
+Indonesia,IDN,"PNG, bonds (NFL, current US$)",DT.NFL.PNGB.CD,1.073477E9,6.57643E8,1.476126E9
+Indonesia,IDN,"PPG, official creditors (NFL, current US$)",DT.NFL.OFFT.CD,-9.049893901E8,1.401336612E9,-9.272278974E8
+Indonesia,IDN,"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,-1.57662E8,-1.72849E8,-1.9003E8
+Indonesia,IDN,"Net official flows from UN agencies, ILO (current US$)",DT.NFL.ILOG.CD,847580.0157,1739799.976,3390079.975
+Indonesia,IDN,"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",DT.NFL.DPNG.CD,1.5961833E10,8.735266E9,7.965016E9
+Indonesia,IDN,"PPG, IBRD (DOD, current US$)",DT.DOD.MIBR.CD,1.6550278E10,1.731467E10,1.8112515E10
+Indonesia,IDN,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,4.6731E10,4.796E10,4.4798514E10
+Indonesia,IDN,"Use of IMF credit (DOD, current US$)",DT.DOD.DIMF.CD,2.820410977E9,2.754377864E9,2.738601714E9
+Indonesia,IDN,"Mortality rate attributed to unintentional poisoning (per 100,000 population)",SH.STA.POIS.P5,0.3,0.3,0.3
+Indonesia,IDN,"People practicing open defecation, urban (% of urban population)",SH.STA.ODFC.UR.ZS,4.055857645,3.451329481,2.846801316
+Indonesia,IDN,"People with basic handwashing facilities including soap and water, urban (% of urban population)",SH.STA.HYGN.UR.ZS,93.19921409,94.66729258,96.13537108
+Indonesia,IDN,"People using at least basic sanitation services, urban (% of urban population)",SH.STA.BASS.UR.ZS,86.19607174,87.98796431,89.79824104
+Indonesia,IDN,Risk of impoverishing expenditure for surgical care (% of people at risk),SH.SGR.IRSK.ZS,13.7,12.7,11.5
+Indonesia,IDN,Number of maternal deaths,SH.MMR.DTHS,9000.0,8300.0,7200.0
+Indonesia,IDN,Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),SH.HIV.PMTC.ZS,13.0,16.0,17.0
+Indonesia,IDN,"Incidence of HIV, all (per 1,000 uninfected population)",SH.HIV.INCD.TL.P3,0.13,0.12,0.11
+Indonesia,IDN,Antiretroviral therapy coverage (% of people living with HIV),SH.HIV.ARTC.ZS,17.0,20.0,23.0
+Indonesia,IDN,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,96.30163341,96.73133976,97.16113646
+Indonesia,IDN,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",SH.DYN.NCOM.ZS,25.2,25.0,24.8
+Indonesia,IDN,"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE,22.9,22.1,21.3
+Indonesia,IDN,"Probability of dying among youth ages 20-24 years (per 1,000)",SH.DYN.2024,5.3,5.2,5.2
+Indonesia,IDN,Number of neonatal deaths,SH.DTH.NMRT,60670.0,57792.0,55347.0
+Indonesia,IDN,Number of infant deaths,SH.DTH.IMRT,100511.0,95753.0,91772.0
+Indonesia,IDN,Number of deaths ages 10-14 years,SH.DTH.1014,10013.0,9906.0,9785.0
+Indonesia,IDN,Prevalence of anemia among non-pregnant women (% of women ages 15-49),SH.ANM.NPRG.ZS,29.0,29.8,30.6
+Indonesia,IDN,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,19.82142857,19.82142857,17.39130435
+Indonesia,IDN,"Government expenditure on education, total (% of government expenditure)",SE.XPD.TOTL.GB.ZS,16.12074089,16.5608902,17.34799957
+Indonesia,IDN,"Regulatory Quality: Percentile Rank, Lower Bound of 90% Confidence Interval",RQ.PER.RNK.LOWER,40.86538315,39.42307663,43.26922989
+Indonesia,IDN,External balance on goods and services (constant LCU),NE.RSB.GNFS.KN,1.82E14,8.31E13,2.29E14
+Indonesia,IDN,Imports of goods and services (constant LCU),NE.IMP.GNFS.KN,1.96E15,2.2E15,2.05E15
+Indonesia,IDN,Imports of goods and services (current US$),NE.IMP.GNFS.CD,1.95E11,2.3E11,2.13E11
+Indonesia,IDN,Gross capital formation (constant 2015 US$),NE.GDI.TOTL.KD,3.25E11,3.53E11,3.61E11
+Indonesia,IDN,Changes in inventories (current LCU),NE.GDI.STKB.CN,2.11E14,3.39E14,2.27E14
+Indonesia,IDN,Gross fixed capital formation (annual % growth),NE.GDI.FTOT.KD.ZG,6.153974016,6.675845943,4.452382707
+Indonesia,IDN,Exports of goods and services (annual % growth),NE.EXP.GNFS.KD.ZG,8.897292176,6.514147381,-0.477023226
+Indonesia,IDN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,100.1067389,100.5717133,100.5190782
+Indonesia,IDN,Gross national expenditure (current US$),NE.DAB.TOTL.CD,1.02E12,1.05E12,1.12E12
+Indonesia,IDN,Final consumption expenditure (annual % growth),NE.CON.TOTL.KD.ZG,4.613316435,5.097100016,4.922599339
+Indonesia,IDN,Households and NPISHs final consumption expenditure (% of GDP),NE.CON.PRVT.ZS,57.27557297,56.97989563,57.93046458
+Indonesia,IDN,Households and NPISHs Final consumption expenditure per capita (constant 2015 US$),NE.CON.PRVT.PC.KD,2061.972156,2147.047964,2236.777981
+Indonesia,IDN,Households and NPISHs final consumption expenditure: linked series (current LCU),NE.CON.PRVT.CN.AD,7.78E15,8.46E15,9.17E15
+Indonesia,IDN,General government final consumption expenditure (constant LCU),NE.CON.GOVT.KN,7.91E14,8.29E14,8.56E14
+Indonesia,IDN,General government final consumption expenditure (current US$),NE.CON.GOVT.CD,9.263023005E10,9.4025730842E10,9.857559061E10
+Indonesia,IDN,Military expenditure (current LCU),MS.MIL.XPND.CN,1.18E14,1.07E14,1.15E14
+Indonesia,IDN,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1.171E9,3.29E8,2.17E8
+Indonesia,IDN,Secure Internet servers,IT.NET.SECR,338925.0,343412.0,455692.0
+Indonesia,IDN,Fixed telephone subscriptions,IT.MLT.MAIN,1.1053303E7,8303511.0,9662135.0
+Indonesia,IDN,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,44.15309815,43.1997787,45.66315041
+Indonesia,IDN,"Air transport, passengers carried",IS.AIR.PSGR,1.08393123E8,1.151541009E8,9.1323153E7
+Indonesia,IDN,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),IQ.SPI.PIL4,47.09166667,43.79166667,43.79166667
+Indonesia,IDN,Statistical performance indicators (SPI): Overall score (scale 0-100),IQ.SPI.OVRL,70.45416667,72.35125,72.2025
+Indonesia,IDN,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD,80.0,80.0,90.0
+Indonesia,IDN,"Patent applications, residents",IP.PAT.RESD,2271.0,1407.0,3093.0
+Indonesia,IDN,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,1322.0,1367.0,870.0
+Indonesia,IDN,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,8.8395E9,3.4201E9,2.9E8
+Indonesia,IDN,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,8.8395E9,3.4201E9,2.9E8
+Indonesia,IDN,Profit tax (% of commercial profits),IC.TAX.PRFT.CP.ZS,18.2,18.1,18.1
+Indonesia,IDN,Labor tax and contributions (% of commercial profits),IC.TAX.LABR.CP.ZS,11.5,11.6,11.6
+Indonesia,IDN,"Start-up procedures to register a business, female (number)",IC.REG.PROC.FE,12.22,11.0,11.22
+Indonesia,IDN,Time required to start a business (days),IC.REG.DURS,24.5,21.0,12.6
+Indonesia,IDN,Procedures to register property (number),IC.PRP.PROC,5.0,6.0,6.0
+Indonesia,IDN,Time to resolve insolvency (years),IC.ISV.DURS,1.1,1.1,1.1
+Indonesia,IDN,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,96.03035736,96.8134079,97.52716827
+Indonesia,IDN,"Access to clean fuels and technologies for cooking, rural (% of rural population)",EG.CFT.ACCS.RU.ZS,61.0,65.8,70.5
+Indonesia,IDN,Public and publicly guaranteed debt service (% of GNI),DT.TDS.DPPG.GN.ZS,1.865297729,1.718839326,1.944762435
+Indonesia,IDN,Total debt service (% of GNI),DT.TDS.DECT.GN.ZS,5.979728127,5.485359836,7.535782312
+Indonesia,IDN,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,1.059324078,3.604678108,-2.572010508
+Indonesia,IDN,Net ODA received (% of gross capital formation),DT.ODA.ODAT.GI.ZS,0.081838095,0.267176863,-0.183414947
+Indonesia,IDN,Net official development assistance and official aid received (constant 2020 US$),DT.ODA.ALLD.KD,2.56230011E8,9.067700195E8,-7.29460022E8
+Indonesia,IDN,"Net official flows from UN agencies, UNDP (current US$)",DT.NFL.UNDP.CD,1280017.734,561711.1921,1352290.034
+Indonesia,IDN,"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,6.3823E7,1.099405E9,6.96195E8
+Indonesia,IDN,"PNG, commercial banks and other creditors (NFL, current US$)",DT.NFL.PNGC.CD,1.4888356E10,8.077623E9,6.48889E9
+Indonesia,IDN,"PPG, bonds (NFL, current US$)",DT.NFL.PBND.CD,2.018329E10,1.583839E10,2.2291287E10
+Indonesia,IDN,"Net financial flows, multilateral (NFL, current US$)",DT.NFL.MLAT.CD,7.35811E8,1.785459E9,1.354384E9
+Indonesia,IDN,"PPG, IDA (DOD, current US$)",DT.DOD.MIDA.CD,1.391004E9,1.19227E9,9.96275E8
+Indonesia,IDN,Short-term debt (% of total reserves),DT.DOD.DSTC.IR.ZS,35.8874795,39.74773149,34.67740552
+Indonesia,IDN,"External debt stocks, long-term (DOD, current US$)",DT.DOD.DLXF.CD,3.04E11,3.29E11,3.55E11
+Indonesia,IDN,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,6.66,7.42,6.0
+Indonesia,IDN,"Unemployment with basic education, female (% of female labor force with basic education)",SL.UEM.BASC.FE.ZS,2.13,2.44,1.87
+Indonesia,IDN,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,14.571,16.413,13.588
+Indonesia,IDN,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,14.37,16.543,13.275
+Indonesia,IDN,"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,31.06,32.23,32.64
+Indonesia,IDN,"Labor force with intermediate education, male (% of male working-age population with intermediate education)",SL.TLF.INTM.MA.ZS,85.51,86.68,85.94
+Indonesia,IDN,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,81.459,82.187,82.545
+Indonesia,IDN,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,51.898,53.089,53.91
+Indonesia,IDN,"Labor force with basic education, female (% of female working-age population with basic education)",SL.TLF.BASC.FE.ZS,46.14,47.59,48.01
+Indonesia,IDN,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,69.08,70.062,70.608
+Indonesia,IDN,"Labor force participation rate for ages 15-24, total (%) (national estimate)",SL.TLF.ACTI.1524.NE.ZS,46.44,47.61,48.09
+Indonesia,IDN,"Labor force participation rate for ages 15-24, female (%) (national estimate)",SL.TLF.ACTI.1524.FE.NE.ZS,37.54,38.16,40.02
+Indonesia,IDN,Employment in services (% of total employment) (modeled ILO estimate),SL.SRV.EMPL.ZS,47.1923,48.01399,48.97831
+Indonesia,IDN,Employment in industry (% of total employment) (modeled ILO estimate),SL.IND.EMPL.ZS,22.01767,22.27278,22.29776
+Indonesia,IDN,"Contributing family workers, total (% of total employment) (modeled ILO estimate)",SL.FAM.WORK.ZS,13.44141,13.39504,13.12524
+Indonesia,IDN,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",SL.EMP.WORK.FE.ZS,41.66436,40.87196,41.0785
+Indonesia,IDN,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.ZS,64.169,64.68,65.79
+Indonesia,IDN,"Employment to population ratio, 15+, female (%) (modeled ILO estimate)",SL.EMP.TOTL.SP.FE.ZS,50.092,50.868,52.105
+Indonesia,IDN,"Self-employed, male (% of male employment) (modeled ILO estimate)",SL.EMP.SELF.MA.ZS,46.62093,47.22837,47.04022
+Indonesia,IDN,"Employers, female (% of female employment) (modeled ILO estimate)",SL.EMP.MPYR.FE.ZS,1.758818,1.90364,1.893519
+Indonesia,IDN,"Employment to population ratio, ages 15-24, male (%) (national estimate)",SL.EMP.1524.SP.MA.NE.ZS,46.84,47.55,48.24
+Indonesia,IDN,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,32.04441,31.09335,30.13293
+Indonesia,IDN,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,65.3,62.8,61.9
+Indonesia,IDN,Gini index,SI.POV.GINI,38.8,38.4,37.6
+Indonesia,IDN,Income share held by lowest 10%,SI.DST.FRST.10,2.8,2.8,3.0
+Indonesia,IDN,Income share held by fourth 20%,SI.DST.04TH.20,21.8,21.9,21.9
+Indonesia,IDN,Domestic private health expenditure per capita (current US$),SH.XPD.PVTD.PC.CD,58.91761144,56.98319786,60.9064025
+Indonesia,IDN,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,36.59593964,35.64099503,34.76155853
+Indonesia,IDN,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,1.34984481,1.395854,1.42156744
+Indonesia,IDN,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,0.68619859,0.40497854,0.55616313
+Indonesia,IDN,Newborns protected against tetanus (%),SH.VAC.TTNS.ZS,85.0,85.0,85.0
+Indonesia,IDN,Tuberculosis treatment success rate (% of new cases),SH.TBS.CURE.ZS,85.0,83.0,83.0
+Indonesia,IDN,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,11.8,11.6,11.3
+Indonesia,IDN,"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",SH.STA.POIS.P5.FE,0.1,0.1,0.1
+Indonesia,IDN,People practicing open defecation (% of population),SH.STA.ODFC.ZS,9.630591727,8.440377536,7.265787359
+Indonesia,IDN,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,194.0,181.0,158.0
+Indonesia,IDN,People with basic handwashing facilities including soap and water (% of population),SH.STA.HYGN.ZS,89.07706113,91.59156142,94.0763809
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, United States (current US$)",DC.DAC.USAL.CD,3.565100098E8,2.151300049E8,1.027600021E8
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Norway (current US$)",DC.DAC.NORL.CD,3.377000046E7,2.428000069E7,4.765999985E7
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Japan (current US$)",DC.DAC.JPNL.CD,-1.048130005E9,-9.478200073E8,-8.830200195E8
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Finland (current US$)",DC.DAC.FINL.CD,5239999.771,1.493999958E7,970000.0286
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Czech Republic (current US$)",DC.DAC.CZEL.CD,19999.99955,639999.9857,219999.9988
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Belgium (current US$)",DC.DAC.BELL.CD,-4159999.847,3240000.01,2829999.924
+Indonesia,IDN,"Stocks traded, total value (% of GDP)",CM.MKT.TRAD.GD.ZS,9.109037315,10.04079732,10.53427164
+Indonesia,IDN,Market capitalization of listed domestic companies (current US$),CM.MKT.LCAP.CD,5.21E11,4.87E11,5.23E11
+Indonesia,IDN,"Control of Corruption: Percentile Rank, Lower Bound of 90% Confidence Interval",CC.PER.RNK.LOWER,38.94230652,37.01922989,26.92307663
+Indonesia,IDN,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,0.885128404,1.076048273,1.042480246
+Indonesia,IDN,"Portfolio equity, net inflows (BoP, current US$)",BX.PEF.TOTL.CD.WD,-2.537669049E9,-3.668291225E9,-3.968759037E8
+Indonesia,IDN,"Transport services (% of service exports, BoP)",BX.GSR.TRAN.ZS,13.70870275,11.51131746,12.49607303
+Indonesia,IDN,"Goods exports (BoP, current US$)",BX.GSR.MRCH.CD,1.69E11,1.81E11,1.68E11
+Indonesia,IDN,"Communications, computer, etc. (% of service exports, BoP)",BX.GSR.CMCP.ZS,31.56129706,33.22324465,32.07659137
+Indonesia,IDN,"Grants, excluding technical cooperation (BoP, current US$)",BX.GRT.EXTA.CD.WD,1.02497E9,7.1061E8,5.5555E8
+Indonesia,IDN,"Portfolio investment, net (BoP, current US$)",BN.KLT.PTXL.CD,-2.1059012443E10,-9.311908007E9,-2.1990288572E10
+Indonesia,IDN,"Net trade in goods and services (BoP, current US$)",BN.GSR.GNFS.CD,1.1434768729E10,-6.713373307E9,-4.133324478E9
+Indonesia,IDN,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,-1.619563438E10,-3.0633120324E10,-3.0279059753E10
+Indonesia,IDN,"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,2.008271972E9,6.399215529E9,4.462481182E9
+Indonesia,IDN,"Charges for the use of intellectual property, payments (BoP, current US$)",BM.GSR.ROYL.CD,1.900641453E9,1.47007241E9,1.804721423E9
+Indonesia,IDN,"Imports of goods and services (BoP, current US$)",BM.GSR.GNFS.CD,1.83E11,2.19E11,2.04E11
+Indonesia,IDN,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5122.3,5244.0,5198.2
+Indonesia,IDN,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,108.58,112.73,107.59
+Indonesia,IDN,Forest area (% of land area),AG.LND.FRST.ZS,50.03933382,49.71681778,49.39429641
+Indonesia,IDN,Land under cereal production (hectares),AG.LND.CREL.HA,1.6433169E7,1.7058294E7,1.4284515E7
+Indonesia,IDN,Agricultural land (% of land area),AG.LND.AGRI.ZS,33.18208764,33.18208764,33.18208764
+Indonesia,IDN,"People practicing open defecation, rural (% of rural population)",SH.STA.ODFC.RU.ZS,16.35098478,14.61875668,12.88652858
+Indonesia,IDN,"People with basic handwashing facilities including soap and water, rural (% of rural population)",SH.STA.HYGN.RU.ZS,84.10776794,87.78260536,91.45744278
+Indonesia,IDN,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,90.9,93.6,94.7
+Indonesia,IDN,"People using at least basic sanitation services, rural (% of rural population)",SH.STA.BASS.RU.ZS,69.64804557,72.9418285,76.29795789
+Indonesia,IDN,Risk of catastrophic expenditure for surgical care (% of people at risk),SH.SGR.CRSK.ZS,11.4,10.1,8.0
+Indonesia,IDN,Prevalence of anemia among pregnant women (%),SH.PRG.ANEM,43.2,43.7,44.2
+Indonesia,IDN,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,0.3767,0.4241,0.4651
+Indonesia,IDN,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,90.0,89.0,88.0
+Indonesia,IDN,"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",SH.HIV.INCD.ZS,0.21,0.2,0.18
+Indonesia,IDN,Adults (ages 15+) and children (ages 0-14) newly infected with HIV,SH.HIV.INCD.TL,34000.0,32000.0,30000.0
+Indonesia,IDN,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,0.2,0.2,0.2
+Indonesia,IDN,"People using at least basic drinking water services, rural (% of rural population)",SH.H2O.BASW.RU.ZS,82.63407273,83.63443268,84.63393876
+Indonesia,IDN,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male (%)",SH.DYN.NCOM.MA.ZS,28.7,28.6,28.4
+Indonesia,IDN,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,25.6,24.6,23.8
+Indonesia,IDN,"Probability of dying among adolescents ages 15-19 years (per 1,000)",SH.DYN.1519,5.1,4.9,4.8
+Indonesia,IDN,Number of deaths ages 5-9 years,SH.DTH.0509,14874.0,14415.0,13926.0
+Indonesia,IDN,Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS,38.0,38.2,38.4
+Indonesia,IDN,"Secondary education, teachers",SE.SEC.TCHR,1586484.0,1636970.0,1307157.0
+Indonesia,IDN,"Primary education, teachers (% female)",SE.PRM.TCHR.FE.ZS,66.00270081,68.43486023,67.0235672
+Indonesia,IDN,"Primary education, pupils",SE.PRM.ENRL,2.9351816E7,2.9425748E7,2.5238228E7
+Indonesia,IDN,Primary school starting age (years),SE.PRM.AGES,7.0,7.0,7.0
+Indonesia,IDN,"Preprimary education, duration (years)",SE.PRE.DURS,6.0,6.0,6.0
+Indonesia,IDN,Regulatory Quality: Percentile Rank,RQ.PER.RNK,56.25,53.36538315,57.21154022
+Indonesia,IDN,"Net official flows from UN agencies, WFP (current US$)",DT.NFL.WFPG.CD,-42729.99987,69737.5536,238269.9996
+Indonesia,IDN,"Net official flows from UN agencies, UNAIDS (current US$)",DT.NFL.UNAI.CD,322100.0135,739850.6999,728667.0804
+Indonesia,IDN,"PPG, other private creditors (NFL, current US$)",DT.NFL.PROP.CD,-3.160885E9,-9.74016E8,-1.719777E9
+Indonesia,IDN,"PPG, commercial banks (NFL, current US$)",DT.NFL.PCBK.CD,-3.47503E8,4.180575E9,-1.223209E9
+Indonesia,IDN,"Net financial flows, others (NFL, current US$)",DT.NFL.MOTH.CD,1.339649121E8,1.658312988E8,9.00000689E7
+Indonesia,IDN,"Net official flows from UN agencies, IAEA (current US$)",DT.NFL.IAEA.CD,284049.1533,391535.4609,389852.8814
+Indonesia,IDN,"Net financial flows, bilateral (NFL, current US$)",DT.NFL.BLAT.CD,-1.640800302E9,-3.841226868E8,-2.281611966E9
+Indonesia,IDN,"IBRD loans and IDA credits (DOD, current US$)",DT.DOD.MWBG.CD,1.7941282E10,1.850694E10,1.910879E10
+Indonesia,IDN,"Short-term debt (% of exports of goods, services and primary income)",DT.DOD.DSTC.XP.ZS,23.39063418,21.67843661,21.59285202
+Indonesia,IDN,"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,1.09E11,1.14E11,1.21E11
+Indonesia,IDN,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,3.54E11,3.8E11,4.02E11
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Sweden (current US$)",DC.DAC.SWEL.CD,2420000.076,4190000.057,2690000.057
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Poland (current US$)",DC.DAC.POLL.CD,280000.0012,670000.0167,1190000.057
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Luxembourg (current US$)",DC.DAC.LUXL.CD,70000.0003,200000.003,150000.006
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Total (current US$)",DC.DAC.TOTL.CD,1.435200192E8,1.106579949E9,-5.487900129E8
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Portugal (current US$)",DC.DAC.PRTL.CD,39999.99911,39999.99911,50000.00075
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Netherlands (current US$)",DC.DAC.NLDL.CD,-1.276000023E7,-1.461999989E7,-1.359000015E7
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Italy (current US$)",DC.DAC.ITAL.CD,-560000.0024,1090000.033,-140000.0006
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Spain (current US$)",DC.DAC.ESPL.CD,-1.488000011E7,-1.413000011E7,-1.485000038E7
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Switzerland (current US$)",DC.DAC.CHEL.CD,1.503999996E7,2.454999924E7,1.778000069E7
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Austria (current US$)",DC.DAC.AUTL.CD,920000.0167,2509999.99,3579999.924
+Indonesia,IDN,"Stocks traded, total value (current US$)",CM.MKT.TRAD.CD,9.2513090235E10,1.05E11,1.18E11
+Indonesia,IDN,S&P Global Equity Indices (annual % change),CM.MKT.INDX.ZG,16.63817455,-9.542019319,7.095670203
+Indonesia,IDN,Control of Corruption: Percentile Rank,CC.PER.RNK,46.15384674,45.67307663,36.53845978
+Indonesia,IDN,"Personal remittances, received (current US$)",BX.TRF.PWKR.CD.DT,8.989529971E9,1.1215344812E10,1.1666395059E10
+Indonesia,IDN,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.019489201,1.814289797,2.233362049
+Indonesia,IDN,"Exports of goods, services and primary income (BoP, current US$)",BX.GSR.TOTL.CD,2.0E11,2.21E11,2.07E11
+Indonesia,IDN,"Insurance and financial services (% of service exports, BoP)",BX.GSR.INSF.ZS,2.852406514,2.630216733,1.982205844
+Indonesia,IDN,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,3.935373953,3.927796348,4.173959217
+Indonesia,IDN,"Net capital account (BoP, current US$)",BN.TRF.KOGT.CD,4.619667788E7,9.715503335E7,3.906157889E7
+Indonesia,IDN,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,-1.8502038861E10,-1.2510610514E10,-2.0531070566E10
+Indonesia,IDN,"Net primary income (BoP, current US$)",BN.GSR.FCTY.CD,-3.2130578987E10,-3.081515357E10,-3.377465769E10
+Indonesia,IDN,"Personal remittances, paid (current US$)",BM.TRF.PWKR.CD.DT,5.177356262E9,5.148052051E9,5.070875384E9
+Indonesia,IDN,"Travel services (% of service imports, BoP)",BM.GSR.TRVL.ZS,25.3430162,27.36271131,28.78563112
+Indonesia,IDN,"Service imports (BoP, current US$)",BM.GSR.NFSV.CD,3.2706819012E10,3.7691919314E10,3.9282377515E10
+Indonesia,IDN,"Primary income payments (BoP, current US$)",BM.GSR.FCTY.CD,3.7705502193E10,4.0116986625E10,4.1147157049E10
+Indonesia,IDN,Surface area (sq. km),AG.SRF.TOTL.K2,1916820.0,1916862.2,1916906.77
+Indonesia,IDN,Cereal production (metric tons),AG.PRD.CREL.MT,8.4176015E7,8.9454472E7,7.4254033E7
+Indonesia,IDN,Land area (sq. km),AG.LND.TOTL.K2,1877519.0,1877519.0,1877519.0
+Indonesia,IDN,Forest area (sq. km),AG.LND.FRST.K2,939498.0,933442.7,927387.3
+Indonesia,IDN,Arable land (% of land area),AG.LND.ARBL.ZS,14.00784759,14.00784759,14.00784759
+Indonesia,IDN,Agricultural land (sq. km),AG.LND.AGRI.K2,623000.0,623000.0,623000.0
+Indonesia,IDN,"Internally displaced persons, new displacement associated with disasters (number of cases)",VC.IDP.NWDS,365000.0,853000.0,463000.0
+Indonesia,IDN,"Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval",VA.PER.RNK.UPPER,57.1428566,58.45410538,57.48792267
+Indonesia,IDN,Voice and Accountability: Estimate,VA.EST,0.131623447,0.154347539,0.132110149
+Indonesia,IDN,High-technology exports (current US$),TX.VAL.TECH.CD,5.971475926E9,6.382014753E9,6.281266981E9
+Indonesia,IDN,Merchandise exports to low- and middle-income economies within region (% of total merchandise exports),TX.VAL.MRCH.WR.ZS,29.59016516,30.58341513,33.84230665
+Indonesia,IDN,Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports),TX.VAL.MRCH.R5.ZS,10.93208695,10.5811013,9.593921612
+Indonesia,IDN,Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports),TX.VAL.MRCH.R1.ZS,29.59016516,30.58341513,33.84230665
+Indonesia,IDN,Merchandise exports to economies in the Arab World (% of total merchandise exports),TX.VAL.MRCH.AL.ZS,3.575281882,3.172341971,3.551328088
+Indonesia,IDN,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,2.985149605,2.881949305,3.006909007
+Indonesia,IDN,Export unit value index (2015 = 100),TX.UVI.MRCH.XD.WD,104.2182723,110.6738414,105.9300269
+Indonesia,IDN,Travel services (% of commercial service imports),TM.VAL.TRVL.ZS.WT,25.43255262,27.39808094,28.84421474
+Indonesia,IDN,Import value index (2000 = 100),TM.VAL.MRCH.XD.WD,359.9613442,432.8658481,392.8793141
+Indonesia,IDN,Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),TM.VAL.MRCH.R6.ZS,1.919089871,2.957051263,2.034380877
+Indonesia,IDN,Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports),TM.VAL.MRCH.R2.ZS,2.009383687,2.013999298,1.766105325
+Indonesia,IDN,Merchandise imports (current US$),TM.VAL.MRCH.CD.WT,1.57E11,1.89E11,1.71E11
+Indonesia,IDN,Insurance and financial services (% of commercial service imports),TM.VAL.INSF.ZS.WT,5.322513123,4.903435239,4.483269521
+Indonesia,IDN,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,3.156260563,2.88939241,2.743537754
+Indonesia,IDN,"Share of tariff lines with specific rates, primary products (%)",TM.TAX.TCOM.SR.ZS,0.0,0.0,0.0
+Indonesia,IDN,"Bound rate, simple mean, primary products (%)",TM.TAX.TCOM.BR.ZS,43.18,43.18,43.18
+Indonesia,IDN,"Share of tariff lines with specific rates, all products (%)",TM.TAX.MRCH.SR.ZS,0.0552123,0.0543367,0.0541843
+Indonesia,IDN,"Bound rate, simple mean, all products (%)",TM.TAX.MRCH.BR.ZS,37.33,37.33,37.33
+Indonesia,IDN,"Share of tariff lines with specific rates, manufactured products (%)",TM.TAX.MANF.SR.ZS,0.0617892,0.060836,0.0611943
+Indonesia,IDN,"Bound rate, simple mean, manufactured products (%)",TM.TAX.MANF.BR.ZS,35.21,35.21,35.21
+Indonesia,IDN,"International tourism, expenditures (% of total imports)",ST.INT.XPND.MP.ZS,5.988223797,6.023914375,7.074866239
+Indonesia,IDN,"International tourism, expenditures for passenger transport items (current US$)",ST.INT.TRNX.CD,2.656E9,2.857E9,3.141E9
+Indonesia,IDN,"International tourism, number of departures",ST.INT.DPRT,8856000.0,9468000.0,1.1689E7
+Indonesia,IDN,Urban population,SP.URB.TOTL,1.44572428E8,1.47754731E8,1.50925974E8
+Indonesia,IDN,Rural population,SP.RUR.TOTL,1.19926424E8,1.19312112E8,1.18656904E8
+Indonesia,IDN,"Population, male",SP.POP.TOTL.MA.IN,1.33245399E8,1.3453668E8,1.35798442E8
+Indonesia,IDN,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,9.439605635,9.591088802,9.776771893
+Indonesia,IDN,"Population ages 80 and above, female (% of female population)",SP.POP.80UP.FE.5Y,1.191249036,1.232954045,1.273873143
+Indonesia,IDN,"Population ages 70-74, female (% of female population)",SP.POP.7074.FE.5Y,2.044549632,2.045455124,2.046872627
+Indonesia,IDN,"Population ages 65 and above, male",SP.POP.65UP.MA.IN,7268495.0,7481013.0,7722886.0
+Indonesia,IDN,"Population ages 65-69, female (% of female population)",SP.POP.6569.FE.5Y,2.563802635,2.628418644,2.718513908
+Indonesia,IDN,"Population ages 55-59, female (% of female population)",SP.POP.5559.FE.5Y,4.647892179,4.773661618,4.892964904
+Indonesia,IDN,"Population ages 45-49, female (% of female population)",SP.POP.4549.FE.5Y,6.481100705,6.524438541,6.563218983
+Indonesia,IDN,"Population ages 35-39, female (% of female population)",SP.POP.3539.FE.5Y,7.672084605,7.672042204,7.650721792
+Indonesia,IDN,"Population ages 25-29, female (% of female population)",SP.POP.2529.FE.5Y,7.736740047,7.669304337,7.61515637
+Indonesia,IDN,"Population ages 15-64, total",SP.POP.1564.TO,1.77789493E8,1.79835745E8,1.8181671E8
+Indonesia,IDN,"Population ages 15-64, female",SP.POP.1564.FE.IN,8.7697281E7,8.8692221E7,8.9656442E7
+Indonesia,IDN,"Population ages 10-14, female (% of female population)",SP.POP.1014.FE.5Y,8.364249631,8.397403119,8.426570636
+Indonesia,IDN,"Population ages 0-14, total",SP.POP.0014.TO,6.9926732E7,6.9982893E7,6.9990363E7
+Indonesia,IDN,"Population ages 0-14, female",SP.POP.0014.FE.IN,3.4042041E7,3.4070749E7,3.4075075E7
+Indonesia,IDN,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,68.448465,69.135874,69.372573
+Indonesia,IDN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.936,70.338,70.518
+Indonesia,IDN,"Mortality rate, infant, female (per 1,000 live births)",SP.DYN.IMRT.FE.IN,19.2,18.5,17.9
+Indonesia,IDN,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,17.519,17.179,16.91
+Indonesia,IDN,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,5.9,5.9,6.2
+Indonesia,IDN,Refugee population by country or territory of asylum,SM.POP.REFG,9782.0,10786.0,10287.0
+Indonesia,IDN,"Rule of Law: Percentile Rank, Upper Bound of 90% Confidence Interval",RL.PER.RNK.UPPER,52.40384674,52.40384674,50.96154022
+Indonesia,IDN,Rule of Law: Estimate,RL.EST,-0.331988752,-0.294692069,-0.323028594
+Indonesia,IDN,"Political Stability and Absence of Violence/Terrorism: Percentile Rank, Lower Bound of 90% Confidence Interval",PV.PER.RNK.LOWER,17.142856600000002,16.03773499,17.92452812
+Indonesia,IDN,Coverage of social insurance programs in richest quintile (% of population),per_si_allsi.cov_q5_tot,21.28613444,25.05136827,23.70049374
+Indonesia,IDN,Coverage of social insurance programs in poorest quintile (% of population),per_si_allsi.cov_q1_tot,2.141768357,2.854760282,3.032225268
+Indonesia,IDN,Coverage of social safety net programs in richest quintile (% of population),per_sa_allsa.cov_q5_tot,11.44522785,13.75283482,7.744192151
+Indonesia,IDN,Coverage of social safety net programs in poorest quintile (% of population),per_sa_allsa.cov_q1_tot,66.03147168,67.93117189,48.50802937
+Indonesia,IDN,Coverage of unemployment benefits and ALMP in richest quintile (% of population),per_lm_alllm.cov_q5_tot,8.575261638,9.752267321,8.794625191
+Indonesia,IDN,Coverage of unemployment benefits and ALMP in poorest quintile (% of population),per_lm_alllm.cov_q1_tot,5.684805803,7.670984154,7.757785616
+Indonesia,IDN,Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,54.07380642,57.1256427,44.5800271
+Indonesia,IDN,Price level ratio of PPP conversion factor (GDP) to market exchange rate,PA.NUS.PPPC.RF,0.350924219,0.334426411,0.335907604
+Indonesia,IDN,Terms of trade adjustment (constant LCU),NY.TTF.GNFS.KN,-7.94E13,-1.9E14,-2.77E14
+Indonesia,IDN,Taxes less subsidies on products (constant LCU),NY.TAX.NIND.KN,3.82E14,4.23E14,4.51E14
+Indonesia,IDN,Net primary income (Net income from abroad) (current LCU),NY.GSR.NFCY.CN,-4.31E14,-4.42E14,-4.81E14
+Indonesia,IDN,Gross savings (current LCU),NY.GNS.ICTR.CN,4.2E15,4.7E15,4.89E15
+Indonesia,IDN,GNI per capita (constant LCU),NY.GNP.PCAP.KN,3.632470603E7,3.790172716E7,3.941971808E7
+Indonesia,IDN,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,3530.0,3850.0,4070.0
+Indonesia,IDN,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,5.070014466,5.354495998,4.984901678
+Indonesia,IDN,GNI (current US$),NY.GNP.MKTP.CD,9.83E11,1.01E12,1.09E12
+Indonesia,IDN,Gross domestic savings (current LCU),NY.GDS.TOTL.CN,4.57E15,5.05E15,5.27E15
+Indonesia,IDN,"GDP per capita, PPP (constant 2017 international $)",NY.GDP.PCAP.PP.KD,10941.92095,11397.4314,11857.78912
+Indonesia,IDN,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,3591.780038,3741.305277,3892.421673
+Indonesia,IDN,"GDP, PPP (constant 2017 international $)",NY.GDP.MKTP.PP.KD,2.89E12,3.04E12,3.2E12
+Indonesia,IDN,GDP (constant 2015 US$),NY.GDP.MKTP.KD,9.5E11,9.99E11,1.05E12
+Indonesia,IDN,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.338696264,0.664931025,0.527633582
+Indonesia,IDN,Gross value added at basic prices (GVA) (current LCU),NY.GDP.FCST.CN,1.31E16,1.42E16,1.52E16
+Indonesia,IDN,GDP deflator: linked series (base year varies by country),NY.GDP.DEFL.ZS.AD,137.0919426,142.3265565,144.6016302
+Indonesia,IDN,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS,0.851545577,1.071769837,0.800234541
+Indonesia,IDN,"Adjusted net savings, including particulate emission damage (% of GNI)",NY.ADJ.SVNG.GN.ZS,12.47040607,11.23835469,9.629578773
+Indonesia,IDN,Adjusted net national income per capita (current US$),NY.ADJ.NNTY.PC.CD,2968.943097,2957.466439,3114.022894
+Indonesia,IDN,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,13.41552423,13.20429081,11.23416996
+Indonesia,IDN,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,0.567542355,0.554759518,0.545808886
+Indonesia,IDN,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.205890738,0.383257429,0.345430624
+Indonesia,IDN,Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,0.0,0.0,0.0
+Indonesia,IDN,Adjusted savings: education expenditure (% of GNI),NY.ADJ.AEDU.GN.ZS,3.266724795,3.266724795,3.266724795
+Indonesia,IDN,"Services, value added (annual % growth)",NV.SRV.TOTL.KD.ZG,5.653780856,5.821343234,6.39180523
+Indonesia,IDN,"Services, value added per worker (constant 2015 US$)",NV.SRV.EMPL.KD,7101.784672,7227.502876,7286.839388
+Indonesia,IDN,Machinery and transport equipment (% of value added in manufacturing),NV.MNF.MTRN.ZS.UN,16.00343426,15.89258691,15.89258691
+Indonesia,IDN,"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,3.98E15,4.15E15,4.31E15
+Indonesia,IDN,"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,4.0E11,4.14E11,4.36E11
+Indonesia,IDN,"Manufacturing, value added (constant 2015 US$)",NV.IND.MANF.KD,1.96E11,2.05E11,2.13E11
+Indonesia,IDN,"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,3.915932501,3.884157966,3.606501572
+Indonesia,IDN,Gross national expenditure (current LCU),NE.DAB.TOTL.CN,1.36E16,1.49E16,1.59E16
+Indonesia,IDN,Final consumption expenditure (constant LCU),NE.CON.TOTL.KN,6.28E15,6.6E15,6.93E15
+Indonesia,IDN,Final consumption expenditure (current US$),NE.CON.TOTL.CD,6.74E11,6.88E11,7.47E11
+Indonesia,IDN,Households and NPISHs Final consumption expenditure per capita growth (annual %),NE.CON.PRVT.PC.KD.ZG,3.930358162,4.125943619,4.179227383
+Indonesia,IDN,Households and NPISHs Final consumption expenditure (constant 2015 US$),NE.CON.PRVT.KD,5.45E11,5.73E11,6.03E11
+Indonesia,IDN,General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,9.120571152,9.021231804,8.808471291
+Indonesia,IDN,General government final consumption expenditure (current LCU),NE.CON.GOVT.CN,1.24E15,1.34E15,1.39E15
+Indonesia,IDN,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.865191376,0.718949727,0.728504562
+Indonesia,IDN,"Armed forces personnel, total",MS.MIL.TOTL.P1,676000.0,675500.0,676000.0
+Indonesia,IDN,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,1281.385524,1285.865352,1690.359578
+Indonesia,IDN,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,4.178960671,3.109150843,3.58410559
+Indonesia,IDN,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,1.1600194E7,1.202836E7,1.2111471E7
+Indonesia,IDN,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,13396.0,15091.0,15573.0
+Indonesia,IDN,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),IQ.SPI.PIL5,50.0,55.0,55.0
+Indonesia,IDN,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),IQ.SPI.PIL1,100.0,100.0,100.0
+Indonesia,IDN,Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,86.66666667,85.55556667,88.8889
+Indonesia,IDN,"Trademark applications, nonresident, by count",IP.TMK.NRCT,16191.0,29221.0,45049.0
+Indonesia,IDN,"Industrial design applications, resident, by count",IP.IDS.RSCT,2319.0,2432.0,1798.0
+Indonesia,IDN,Total tax and contribution rate (% of profit),IC.TAX.TOTL.CP.ZS,30.0,30.1,30.1
+Indonesia,IDN,"Start-up procedures to register a business, male (number)",IC.REG.PROC.MA,12.22,11.0,11.22
+Indonesia,IDN,"Time required to start a business, female (days)",IC.REG.DURS.FE,24.54,21.0,12.64
+Indonesia,IDN,"Cost of business start-up procedures, female (% of GNI per capita)",IC.REG.COST.PC.FE.ZS,11.0,6.1,5.7
+Indonesia,IDN,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ,6.0,6.0,6.0
+Indonesia,IDN,"Cost to import, documentary compliance (US$)",IC.IMP.CSDC.CD,164.4,164.4,164.4
+Indonesia,IDN,"Time to export, border compliance (hours)",IC.EXP.TMBC,62.56737,62.56737,56.28
+Indonesia,IDN,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,55.3,58.2,30.9
+Indonesia,IDN,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,78.69303054,81.2661059,83.85609129
+Indonesia,IDN,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,220.0,230.0,310.0
+Indonesia,IDN,"Incidence of malaria (per 1,000 population at risk)",SH.MLR.INCD.P3,2.813762728,2.480641102,2.872363408
+Indonesia,IDN,"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,85.0,85.0,85.0
+Indonesia,IDN,Young people (ages 15-24) newly infected with HIV,SH.HIV.INCD.YG,17000.0,16000.0,15000.0
+Indonesia,IDN,Adults (ages 15-49) newly infected with HIV,SH.HIV.INCD,30000.0,28000.0,26000.0
+Indonesia,IDN,Children (0-14) living with HIV,SH.HIV.0014,17000.0,18000.0,18000.0
+Indonesia,IDN,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,90.10462418,90.88029952,91.64729028
+Indonesia,IDN,"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT,13.1,12.6,12.1
+Indonesia,IDN,"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA,28.1,27.1,26.1
+Indonesia,IDN,Women's share of population ages 15+ living with HIV (%),SH.DYN.AIDS.FE.ZS,37.1,37.4,37.7
+Indonesia,IDN,"Probability of dying among children ages 5-9 years (per 1,000)",SH.DYN.0509,3.1,3.0,2.9
+Indonesia,IDN,Number of deaths ages 15-19 years,SH.DTH.1519,22335.0,21671.0,21125.0
+Indonesia,IDN,Women Business and the Law Index Score (scale 1-100),SG.LAW.INDX,64.375,64.375,64.375
+Indonesia,IDN,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,2.669980049,3.0,2.841850042
+Indonesia,IDN,Lower secondary school starting age (years),SE.SEC.AGES,13.0,13.0,13.0
+Indonesia,IDN,"Regulatory Quality: Percentile Rank, Upper Bound of 90% Confidence Interval",RQ.PER.RNK.UPPER,66.34615326,63.94230652,64.90384674
+Indonesia,IDN,Regulatory Quality: Estimate,RQ.EST,0.041742001,-0.009807486,0.041040741
+Indonesia,IDN,Rule of Law: Percentile Rank,RL.PER.RNK,40.86538315,42.78845978,43.26922989
+Indonesia,IDN,Political Stability and Absence of Violence/Terrorism: Standard Error,PV.STD.ERR,0.211722627,0.211090252,0.227150217
+Indonesia,IDN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,3.78,4.39,3.59
+Indonesia,IDN,"Unemployment, female (% of female labor force) (national estimate)",SL.UEM.TOTL.FE.NE.ZS,3.48,4.18,3.35
+Indonesia,IDN,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,6.95,7.71,6.21
+Indonesia,IDN,"Unemployment with basic education, male (% of male labor force with basic education)",SL.UEM.BASC.MA.ZS,2.9,3.29,2.69
+Indonesia,IDN,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,4.41,6.04,4.75
+Indonesia,IDN,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)",SL.UEM.1524.MA.NE.ZS,14.52,16.24,13.87
+Indonesia,IDN,"Labor force, female (% of total labor force)",SL.TLF.TOTL.FE.ZS,38.88002608,39.20511459,39.46589906
+Indonesia,IDN,Labor force with intermediate education (% of total working-age population with intermediate education),SL.TLF.INTM.ZS,70.69,72.19,72.1
+Indonesia,IDN,"Labor force participation rate, total (% of total population ages 15+) (national estimate)",SL.TLF.CACT.NE.ZS,66.69,67.65,68.24
+Indonesia,IDN,Ratio of female to male labor force participation rate (%) (national estimate),SL.TLF.CACT.FM.NE.ZS,63.70997424,64.59498905,65.31007752
+Indonesia,IDN,"Labor force with basic education, male (% of male working-age population with basic education)",SL.TLF.BASC.MA.ZS,77.17,78.22,78.75
+Indonesia,IDN,"Labor force with advanced education, female (% of female working-age population with advanced education)",SL.TLF.ADVN.FE.ZS,79.13,76.05,78.61
+Indonesia,IDN,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,46.443,47.61,48.092
+Indonesia,IDN,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,37.794,38.206,39.984
+Indonesia,IDN,GDP per person employed (constant 2017 PPP $),SL.GDP.PCAP.EM.KD,23179.89589,23878.42549,24343.99721
+Indonesia,IDN,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",SL.EMP.WORK.MA.ZS,53.37909,52.77163,52.95977
+Indonesia,IDN,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,56.57682,57.22441,57.02799
+Indonesia,IDN,"Employment to population ratio, 15+, male (%) (national estimate)",SL.EMP.TOTL.SP.MA.NE.ZS,78.27,78.5,79.46
+Indonesia,IDN,"Self-employed, total (% of total employment) (modeled ILO estimate)",SL.EMP.SELF.ZS,51.19096,51.90482,51.74558
+Indonesia,IDN,"Employers, male (% of male employment) (modeled ILO estimate)",SL.EMP.MPYR.MA.ZS,4.4842,4.648932,4.549835
+Indonesia,IDN,"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)",SL.EMP.1524.SP.MA.ZS,46.617,47.305,48.089
+Indonesia,IDN,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,30.79004,29.71325,28.72393
+Indonesia,IDN,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,27.4,25.5,24.5
+Indonesia,IDN,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,29.7,26.4,24.7
+Indonesia,IDN,Income share held by lowest 20%,SI.DST.FRST.20,6.7,6.8,7.1
+Indonesia,IDN,Income share held by highest 20%,SI.DST.05TH.20,45.9,45.6,45.0
+Indonesia,IDN,"Domestic private health expenditure per capita, PPP (current international $)",SH.XPD.PVTD.PP.CD,167.8926918,170.4107561,181.3332125
+Indonesia,IDN,Out-of-pocket expenditure per capita (current US$),SH.XPD.OOPC.PC.CD,40.80958071,39.88650726,41.91881496
+Indonesia,IDN,Domestic general government health expenditure (% of general government expenditure),SH.XPD.GHED.GE.ZS,8.15006733,8.39312935,8.67721939
+Indonesia,IDN,External health expenditure per capita (current US$),SH.XPD.EHEX.PC.CD,0.76520725,0.45321908,0.67067479
+Indonesia,IDN,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2.90417194,2.86757827,2.90491366
+Indonesia,IDN,"Tuberculosis case detection rate (%, all forms)",SH.TBS.DTEC.ZS,52.0,68.0,67.0
+Indonesia,IDN,Regulatory Quality: Standard Error,RQ.STD.ERR,0.190728024,0.190973178,0.189988241
+Indonesia,IDN,Regulatory Quality: Number of Sources,RQ.NO.SRC,10.0,10.0,10.0
+Indonesia,IDN,"Rule of Law: Percentile Rank, Lower Bound of 90% Confidence Interval",RL.PER.RNK.LOWER,31.25,32.69230652,29.32692337
+Indonesia,IDN,Political Stability and Absence of Violence/Terrorism: Percentile Rank,PV.PER.RNK,29.04761887,26.88679314,27.35848999
+Indonesia,IDN,Coverage of social insurance programs in 4th quintile (% of population),per_si_allsi.cov_q4_tot,11.22315978,13.78031604,13.37404803
+Indonesia,IDN,Coverage of social insurance programs (% of population),per_si_allsi.cov_pop_tot,9.285938485,11.09690111,10.85829192
+Indonesia,IDN,Coverage of social safety net programs in 4th quintile (% of population),per_sa_allsa.cov_q4_tot,32.70892718,33.74964727,20.51946079
+Indonesia,IDN,Coverage of social safety net programs (% of population),per_sa_allsa.cov_pop_tot,42.42441918,43.55745405,29.15143206
+Indonesia,IDN,Coverage of unemployment benefits and ALMP in 4th quintile (% of population),per_lm_alllm.cov_q4_tot,9.319363721,11.44157592,10.51199155
+Indonesia,IDN,Coverage of unemployment benefits and ALMP (% of population),per_lm_alllm.cov_pop_tot,7.764673712,9.475784516,9.125167419
+Indonesia,IDN,Benefit incidence of social protection and labor programs to poorest quintile (% of total SPL benefits),per_allsp.ben_q1_tot,31.96170039,30.68316176,28.8705484
+Indonesia,IDN,"PPP conversion factor, GDP (LCU per international $)",PA.NUS.PPP,4695.658691,4761.208348,4752.310403
+Indonesia,IDN,Taxes less subsidies on products (current LCU),NY.TAX.NIND.CN,5.23E14,6.02E14,6.51E14
+Indonesia,IDN,Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,-3.2180787912E10,-3.1058906177E10,-3.402122109E10
+Indonesia,IDN,Gross savings (current US$),NY.GNS.ICTR.CD,3.14E11,3.3E11,3.46E11
+Indonesia,IDN,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,4.017851883,4.341455987,4.005070581
+Indonesia,IDN,"GNI, PPP (constant 2017 international $)",NY.GNP.MKTP.PP.KD,2.8E12,2.95E12,3.1E12
+Indonesia,IDN,GNI (constant 2015 US$),NY.GNP.MKTP.KD,9.2E11,9.69E11,1.02E12
+Indonesia,IDN,"GNI, Atlas method (current US$)",NY.GNP.ATLS.CD,9.34E11,1.03E12,1.1E12
+Indonesia,IDN,Gross domestic savings (current US$),NY.GDS.TOTL.CD,3.41E11,3.54E11,3.72E11
+Indonesia,IDN,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,10941.92095,11669.71728,12358.24225
+Indonesia,IDN,GDP per capita (current LCU),NY.GDP.PCAP.CN,5.137952621E7,5.556195533E7,5.873020318E7
+Indonesia,IDN,"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD,2.89E12,3.12E12,3.33E12
+Indonesia,IDN,GDP: linked series (current LCU),NY.GDP.MKTP.CN.AD,1.36E16,1.48E16,1.58E16
+Indonesia,IDN,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS,0.499027964,0.487970159,0.429369566
+Indonesia,IDN,Gross value added at basic prices (GVA) (current US$),NY.GDP.FCST.CD,9.77E11,1.0E12,1.07E12
+Indonesia,IDN,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,137.0919426,142.3265565,144.6016302
+Indonesia,IDN,Exports as a capacity to import (constant LCU),NY.EXP.CAPM.KN,2.07E15,2.1E15,2.0E15
+Indonesia,IDN,"Adjusted net savings, including particulate emission damage (current US$)",NY.ADJ.SVNG.CD,1.23E11,1.14E11,1.04E11
+Indonesia,IDN,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,6.10753696,5.762463563,4.517971128
+Indonesia,IDN,Adjusted savings: net national savings (current US$),NY.ADJ.NNAT.CD,1.32E11,1.34E11,1.22E11
+Indonesia,IDN,Adjusted savings: particulate emission damage (current US$),NY.ADJ.DPEM.CD,5.581426929E9,5.609798286E9,5.922455677E9
+Indonesia,IDN,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2.02480766E9,3.875547506E9,3.748193943E9
+Indonesia,IDN,Adjusted savings: net forest depletion (current US$),NY.ADJ.DFOR.CD,0.0,0.0,0.0
+Indonesia,IDN,Adjusted savings: education expenditure (current US$),NY.ADJ.AEDU.CD,3.212621151E10,3.3033533548E10,3.5446533215E10
+Indonesia,IDN,"Services, value added (constant 2015 US$)",NV.SRV.TOTL.KD,4.16E11,4.4E11,4.69E11
+Indonesia,IDN,Textiles and clothing (% of value added in manufacturing),NV.MNF.TXTL.ZS.UN,12.51469328,12.88407464,12.88407464
+Indonesia,IDN,"Food, beverages and tobacco (% of value added in manufacturing)",NV.MNF.FBTO.ZS.UN,22.88830612,23.94704182,23.94704182
+Indonesia,IDN,"Industry (including construction), value added (annual % growth)",NV.IND.TOTL.KD.ZG,4.091131457,4.343263312,3.809958372
+Indonesia,IDN,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,20.16002236,19.86319338,19.70353909
+Indonesia,IDN,"Manufacturing, value added (current LCU)",NV.IND.MANF.CN,2.74E15,2.95E15,3.12E15
+Indonesia,IDN,"Agriculture, forestry, and fishing, value added (constant 2015 US$)",NV.AGR.TOTL.KD,1.25E11,1.3E11,1.34E11
+Indonesia,IDN,Trade (% of GDP),NE.TRD.GNFS.ZS,39.35549707,43.07430896,37.62777754
+Indonesia,IDN,"Time to import, border compliance (hours)",IC.IMP.TMBC,99.36,99.36,99.36
+Indonesia,IDN,"Time to export, documentary compliance (hours)",IC.EXP.TMDC,61.32,61.32,61.32
+Indonesia,IDN,Time required to get electricity (days),IC.ELC.TIME,34.0,34.0,32.24
+Indonesia,IDN,Ease of doing business score (0 = lowest performance to 100 = best performance),IC.BUS.DFRN.XQ,66.86799,68.184,69.57879
+Indonesia,IDN,"Government Effectiveness: Percentile Rank, Upper Bound of 90% Confidence Interval",GE.PER.RNK.UPPER,65.86538696,69.2307663,69.71154022
+Indonesia,IDN,Government Effectiveness: Estimate,GE.EST,0.014091857,0.176904798,0.173593521
+Indonesia,IDN,Expense (current LCU),GC.XPN.TOTL.CN,1.94E15,2.2E15,2.29E15
+Indonesia,IDN,Interest payments (% of revenue),GC.XPN.INTP.RV.ZS,12.99312099,13.27458999,14.03565864
+Indonesia,IDN,Compensation of employees (% of expense),GC.XPN.COMP.ZS,15.94352967,15.61095979,16.23801261
+Indonesia,IDN,"Taxes on income, profits and capital gains (current LCU)",GC.TAX.YPKG.CN,6.47E14,7.5E14,7.72E14
+Indonesia,IDN,Other taxes (current LCU),GC.TAX.OTHR.CN,2.19E13,2.49E13,2.68E13
+Indonesia,IDN,Customs and other import duties (current LCU),GC.TAX.IMPT.CN,3.45E13,3.88E13,3.68E13
+Indonesia,IDN,Taxes on exports (% of tax revenue),GC.TAX.EXPT.ZS,0.308975026,0.445648887,0.228414633
+Indonesia,IDN,Social contributions (% of revenue),GC.REV.SOCL.ZS,0.0,0.0,0.0
+Indonesia,IDN,Net lending (+) / net borrowing (-) (% of GDP),GC.NLD.TOTL.GD.ZS,-2.506185357,-1.813650732,-2.195798267
+Indonesia,IDN,"Net incurrence of liabilities, total (% of GDP)",GC.LBL.TOTL.GD.ZS,3.157336681,2.507143183,2.763521053
+Indonesia,IDN,Net acquisition of financial assets (% of GDP),GC.AST.TOTL.GD.ZS,0.651151324,0.693492451,0.567722786
+Indonesia,IDN,Domestic credit to private sector (% of GDP),FS.AST.PRVT.GD.ZS,38.73234956,38.80544967,37.74899336
+Indonesia,IDN,Deposit interest rate (%),FR.INR.DPST,6.518333333,6.129166667,6.688333333
+Indonesia,IDN,Broad money growth (annual %),FM.LBL.BMNY.ZG,8.275528079,6.290289124,6.540404881
+Indonesia,IDN,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,5.931838938,8.412275832,4.913821454
+Indonesia,IDN,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,7.515375895,11.77070689,5.462194563
+Indonesia,IDN,Total reserves (% of total external debt),FI.RES.TOTL.DT.ZS,36.82936817,31.78727256,32.12742923
+Indonesia,IDN,"Automated teller machines (ATMs) (per 100,000 adults)",FB.ATM.TOTL.P5,55.1405066,54.37464798,53.40975505
+Indonesia,IDN,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,12.16569636,12.16569636,12.1657
+Indonesia,IDN,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,222.635,222.635,222.635
+Indonesia,IDN,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,85.2067285,85.2067285,85.2067285
+Indonesia,IDN,Aquaculture production (metric tons),ER.FSH.AQUA.MT,1.6118238E7,1.5771806E7,1.542562733E7
+Indonesia,IDN,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3.5135475E7,3.5822488E7,3.6532764E7
+Indonesia,IDN,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,94798.17,98121.05,98088.58
+Indonesia,IDN,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,85527.46,88406.41,87976.22
+Indonesia,IDN,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,55074.0,54917.5,56079.9
+Indonesia,IDN,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.955863309,2.160475982,2.299258412
+Indonesia,IDN,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.544538721,0.577465837,0.590701267
+Indonesia,IDN,"Unemployment, male (% of male labor force) (national estimate)",SL.UEM.TOTL.MA.NE.ZS,3.97,4.52,3.75
+Indonesia,IDN,"Share of youth not in education, employment or training, male (% of male youth population)",SL.UEM.NEET.MA.ZS,15.27,15.8,15.08
+Indonesia,IDN,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,7.53,8.3,6.6
+Indonesia,IDN,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,4.21,5.31,4.38
+Indonesia,IDN,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)",SL.UEM.1524.NE.ZS,14.45,16.28,13.58
+Indonesia,IDN,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)",SL.UEM.1524.FE.NE.ZS,14.35,16.35,13.17
+Indonesia,IDN,"Part time employment, male (% of total male employment)",SL.TLF.PART.MA.ZS,24.58,25.8,26.24
+Indonesia,IDN,"Labor force with intermediate education, female (% of female working-age population with intermediate education)",SL.TLF.INTM.FE.ZS,52.51,54.2,55.07
+Indonesia,IDN,"Labor force participation rate, male (% of male population ages 15+) (national estimate)",SL.TLF.CACT.MA.NE.ZS,81.51,82.22,82.56
+Indonesia,IDN,"Labor force participation rate, female (% of female population ages 15+) (national estimate)",SL.TLF.CACT.FE.NE.ZS,51.93,53.11,53.92
+Indonesia,IDN,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,84.87,81.86,84.08
+Indonesia,IDN,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,83.448,84.17,84.531
+Indonesia,IDN,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,54.653,56.537,55.789
+Indonesia,IDN,"Employment in services, male (% of male employment) (modeled ILO estimate)",SL.SRV.EMPL.MA.ZS,42.51224,43.20876,43.86496
+Indonesia,IDN,"Employment in industry, male (% of male employment) (modeled ILO estimate)",SL.IND.EMPL.MA.ZS,25.44337,25.69789,26.00211
+Indonesia,IDN,"Contributing family workers, male (% of male employment) (modeled ILO estimate)",SL.FAM.WORK.MA.ZS,5.887859,6.278655,5.895572
+Indonesia,IDN,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,47.76994,48.33474,48.24773
+Indonesia,IDN,"Employment to population ratio, 15+, total (%) (national estimate)",SL.EMP.TOTL.SP.NE.ZS,64.17,64.68,65.79
+Indonesia,IDN,"Employment to population ratio, 15+, female (%) (national estimate)",SL.EMP.TOTL.SP.FE.NE.ZS,50.12,50.89,52.11
+Indonesia,IDN,"Self-employed, female (% of female employment) (modeled ILO estimate)",SL.EMP.SELF.FE.ZS,58.33564,59.12804,58.9215
+Indonesia,IDN,"Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)",SL.EMP.1524.SP.ZS,39.676,39.796,41.557
+Indonesia,IDN,"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",SL.EMP.1524.SP.FE.ZS,32.363,31.886,34.676
+Indonesia,IDN,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,28.82813,27.5807,26.5717
+Indonesia,IDN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,10.6,9.8,9.4
+Indonesia,IDN,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,1.0,0.8,0.6
+Indonesia,IDN,Income share held by third 20%,SI.DST.03RD.20,15.0,15.0,15.2
+Indonesia,IDN,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,52.83429337,50.91791916,50.50718689
+Indonesia,IDN,"Domestic general government health expenditure per capita, PPP (current international $)",SH.XPD.GHED.PP.CD,147.6989562,162.9112555,175.694602
+Indonesia,IDN,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,46.47950745,48.67710495,48.93664932
+Indonesia,IDN,"Current health expenditure per capita, PPP (current international $)",SH.XPD.CHEX.PP.CD,317.7721968,334.6773833,359.0245883
+Indonesia,IDN,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,2.4,2.4,2.4
+Indonesia,IDN,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",SH.STA.STNT.ME.ZS,32.3,32.2,32.0
+Indonesia,IDN,Political Stability and Absence of Violence/Terrorism: Number of Sources,PV.NO.SRC,9.0,9.0,8.0
+Indonesia,IDN,Coverage of social insurance programs in 3rd quintile (% of population),per_si_allsi.cov_q3_tot,7.251568767,8.765313243,8.704298909
+Indonesia,IDN,Coverage of social safety net programs in 3rd quintile (% of population),per_sa_allsa.cov_q3_tot,45.56403823,45.6829774,30.4280054
+Indonesia,IDN,Benefit incidence of social safety net programs to poorest quintile (% of total safety net benefits),per_sa_allsa.ben_q1_tot,31.96170039,30.68316176,28.8705484
+Indonesia,IDN,Coverage of unemployment benefits and ALMP in 3rd quintile (% of population),per_lm_alllm.cov_q3_tot,7.890517308,9.786821757,9.738683014
+Indonesia,IDN,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,3.16716992,3.518007426,4.274139852
+Indonesia,IDN,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,13380.83388,14236.93877,14147.67136
+Indonesia,IDN,Net secondary income (Net current transfers from abroad) (current LCU),NY.TRF.NCTR.CN,6.02E13,9.82E13,1.08E14
+Indonesia,IDN,Taxes less subsidies on products (current US$),NY.TAX.NIND.CD,3.9102936626E10,4.2284202275E10,4.6049655917E10
+Indonesia,IDN,Gross savings (% of GDP),NY.GNS.ICTR.ZS,30.87836344,31.6805228,30.90271351
+Indonesia,IDN,"GNI per capita, PPP (constant 2017 international $)",NY.GNP.PCAP.PP.KD,10595.2164,11055.20306,11497.97174
+Indonesia,IDN,GNI per capita (constant 2015 US$),NY.GNP.PCAP.KD,3477.095019,3628.051569,3773.357595
+Indonesia,IDN,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2.8E12,3.02E12,3.23E12
+Indonesia,IDN,GNI: linked series (current LCU),NY.GNP.MKTP.CN.AD,1.32E16,1.44E16,1.54E16
+Indonesia,IDN,Gross domestic income (constant LCU),NY.GDY.TOTL.KN,9.83E15,1.02E16,1.07E16
+Indonesia,IDN,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.080161772,4.216633744,3.235839677
+Indonesia,IDN,GDP per capita (constant LCU),NY.GDP.PCAP.KN,3.74781517E7,3.903836127E7,4.061517364E7
+Indonesia,IDN,GDP per capita (current US$),NY.GDP.PCAP.CD,3839.785069,3902.661668,4151.227543
+Indonesia,IDN,GDP (constant LCU),NY.GDP.MKTP.KN,9.91E15,1.04E16,1.09E16
+Indonesia,IDN,GDP (current LCU),NY.GDP.MKTP.CN,1.36E16,1.48E16,1.58E16
+Indonesia,IDN,Gross value added at basic prices (GVA) (constant LCU),NY.GDP.FCST.KN,9.53E15,1.0E16,1.05E16
+Indonesia,IDN,Discrepancy in expenditure estimate of GDP (constant LCU),NY.GDP.DISC.KN,9.25E13,9.77E13,6.39E13
+Indonesia,IDN,"Inflation, GDP deflator: linked series (annual %)",NY.GDP.DEFL.KD.ZG.AD,4.292678122,3.818323569,1.5984885
+Indonesia,IDN,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,13.03794843,11.79311421,10.17538766
+Indonesia,IDN,Adjusted net national income per capita (annual % growth),NY.ADJ.NNTY.PC.KD.ZG,5.044984711,4.745500725,3.542497925
+Indonesia,IDN,Adjusted net national income (constant 2015 US$),NY.ADJ.NNTY.KD,7.56E11,8.0E11,8.36E11
+Indonesia,IDN,Adjusted savings: gross savings (% of GNI),NY.ADJ.ICTR.GN.ZS,31.8887882,32.65357471,31.87162766
+Indonesia,IDN,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.470150387,2.05913547,1.650622529
+Indonesia,IDN,Adjusted savings: consumption of fixed capital (% of GNI),NY.ADJ.DKAP.GN.ZS,18.47326397,19.44928391,20.6374577
+Indonesia,IDN,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,1.968259476,2.235508489,2.329453945
+Indonesia,IDN,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,43.61405533,43.40483731,44.22074584
+Indonesia,IDN,"Services, value added (current LCU)",NV.SRV.TOTL.CN,5.93E15,6.44E15,7.0E15
+Indonesia,IDN,Medium and high-tech manufacturing value added (% manufacturing value added),NV.MNF.TECH.ZS.UN,37.39747605,34.99880308,34.99880308
+Indonesia,IDN,Chemicals (% of value added in manufacturing),NV.MNF.CHEM.ZS.UN,12.79678351,10.78817864,10.78817864
+Indonesia,IDN,"Industry (including construction), value added (constant 2015 US$)",NV.IND.TOTL.KD,3.73E11,3.89E11,4.04E11
+Indonesia,IDN,"Manufacturing, value added (constant LCU)",NV.IND.MANF.KN,2.1E15,2.19E15,2.28E15
+Indonesia,IDN,"Manufacturing, value added (current US$)",NV.IND.MANF.CD,2.05E11,2.07E11,2.21E11
+Indonesia,IDN,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,13.15663085,12.80849756,12.71260266
+Indonesia,IDN,"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,1.79E15,1.9E15,2.01E15
+Indonesia,IDN,External balance on goods and services (% of GDP),NE.RSB.GNFS.ZS,0.9991118,-1.068815961,-0.444721942
+Indonesia,IDN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,19.17819264,22.07156246,19.03624974
+Indonesia,IDN,Imports of goods and services (current LCU),NE.IMP.GNFS.CN,2.61E15,3.28E15,3.01E15
+Indonesia,IDN,Gross capital formation (annual % growth),NE.GDI.TOTL.KD.ZG,5.690160677,8.523940663,2.359847139
+Indonesia,IDN,Changes in inventories (constant LCU),NE.GDI.STKB.KN,1.27E14,1.97E14,1.3E14
+Indonesia,IDN,Gross fixed capital formation (constant LCU),NE.GDI.FTOT.KN,3.23E15,3.44E15,3.6E15
+Indonesia,IDN,Gross fixed capital formation (current US$),NE.GDI.FTOT.CD,3.27E11,3.37E11,3.62E11
+Indonesia,IDN,Exports of goods and services (constant LCU),NE.EXP.GNFS.KN,2.15E15,2.29E15,2.28E15
+Indonesia,IDN,Exports of goods and services (current US$),NE.EXP.GNFS.CD,2.05E11,2.19E11,2.08E11
+Indonesia,IDN,Rule of Law: Standard Error,RL.STD.ERR,0.15864709,0.153481036,0.157055736
+Indonesia,IDN,Rule of Law: Number of Sources,RL.NO.SRC,12.0,12.0,12.0
+Indonesia,IDN,"Political Stability and Absence of Violence/Terrorism: Percentile Rank, Upper Bound of 90% Confidence Interval",PV.PER.RNK.UPPER,39.52381134,39.15094376,42.45283127
+Indonesia,IDN,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-0.497903407,-0.545908093,-0.493404567
+Indonesia,IDN,Coverage of social insurance programs in 2nd quintile (% of population),per_si_allsi.cov_q2_tot,4.525686189,5.019986798,5.47182961
+Indonesia,IDN,Coverage of social safety net programs in 2nd quintile (% of population),per_sa_allsa.cov_q2_tot,56.37645018,56.70189481,38.5769943
+Indonesia,IDN,Adequacy of social safety net programs (% of total welfare of beneficiary households),per_sa_allsa.adq_pop_tot,3.16716992,3.518007426,4.274139852
+Indonesia,IDN,Coverage of unemployment benefits and ALMP in 2nd quintile (% of population),per_lm_alllm.cov_q2_tot,7.35316363,8.72555468,8.821481124
+Indonesia,IDN,"PPP conversion factor, private consumption (LCU per international $)",PA.NUS.PRVT.PP,5089.686035,5127.234844,5188.591953
+Indonesia,IDN,DEC alternative conversion factor (LCU per US$),PA.NUS.ATLS,13380.8339,14236.9388,14147.6714
+Indonesia,IDN,Net secondary income (Net current transfers from abroad) (current US$),NY.TRF.NCTR.CD,4.50017587E9,6.89540654E9,7.628922394E9
+Indonesia,IDN,Gross savings (% of GNI),NY.GNS.ICTR.GN.ZS,31.8887882,32.65357471,31.87162766
+Indonesia,IDN,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,10600.0,11320.0,11980.0
+Indonesia,IDN,GNI per capita (current LCU),NY.GNP.PCAP.CN,4.975151999E7,5.390625093E7,5.69447743E7
+Indonesia,IDN,GNI (constant LCU),NY.GNP.MKTP.KN,9.61E15,1.01E16,1.06E16
+Indonesia,IDN,GNI (current LCU),NY.GNP.MKTP.CN,1.32E16,1.44E16,1.54E16
+Indonesia,IDN,Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,33.60385587,33.99887256,33.26106413
+Indonesia,IDN,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.799367966,1.13230202,0.74013461
+Indonesia,IDN,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,4.017625608,4.162984291,4.039135657
+Indonesia,IDN,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.591524,0.859660704,0.738467378
+Indonesia,IDN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.069785901,5.17429154,5.01928768
+Indonesia,IDN,GDP (current US$),NY.GDP.MKTP.CD,1.02E12,1.04E12,1.12E12
+Indonesia,IDN,Gross value added at basic prices (GVA) (constant 2015 US$),NY.GDP.FCST.KD,9.13E11,9.59E11,1.01E12
+Indonesia,IDN,Discrepancy in expenditure estimate of GDP (current LCU),NY.GDP.DISC.CN,-1.5E14,7.38E13,-1.18E13
+Indonesia,IDN,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,4.292678122,3.818323569,1.5984885
+Indonesia,IDN,"Adjusted net savings, excluding particulate emission damage (current US$)",NY.ADJ.SVNX.CD,1.28E11,1.19E11,1.1E11
+Indonesia,IDN,Adjusted net national income per capita (constant 2015 US$),NY.ADJ.NNTY.PC.KD,2859.372794,2995.06435,3101.164443
+Indonesia,IDN,Adjusted net national income (current US$),NY.ADJ.NNTY.CD,7.85E11,7.9E11,8.39E11
+Indonesia,IDN,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.676041124,2.442392899,1.996053153
+Indonesia,IDN,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1.4458016894E10,2.0822237838E10,1.7910552603E10
+Indonesia,IDN,Adjusted savings: consumption of fixed capital (current US$),NY.ADJ.DKAP.CD,1.82E11,1.97E11,2.24E11
+Indonesia,IDN,Adjusted savings: carbon dioxide damage (current US$),NY.ADJ.DCO2.CD,1.9356610732E10,2.2605744066E10,2.5276407349E10
+Indonesia,IDN,"Services, value added (constant LCU)",NV.SRV.TOTL.KN,4.29E15,4.54E15,4.83E15
+Indonesia,IDN,"Services, value added (current US$)",NV.SRV.TOTL.CD,4.43E11,4.52E11,4.95E11
+Indonesia,IDN,Other manufacturing (% of value added in manufacturing),NV.MNF.OTHR.ZS.UN,35.79678282,36.48811799,36.488118
+Indonesia,IDN,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,39.3791548,39.72973745,38.951768
+Indonesia,IDN,"Industry (including construction), value added (current LCU)",NV.IND.TOTL.CN,5.35E15,5.9E15,6.17E15
+Indonesia,IDN,"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,4.293231778,4.274007554,3.797784266
+Indonesia,IDN,"Industry (including construction), value added per worker (constant 2015 US$)",NV.IND.EMPL.KD,13623.85922,13760.48729,13791.4982
+Indonesia,IDN,"Agriculture, forestry, and fishing, value added (constant LCU)",NV.AGR.TOTL.KN,1.26E15,1.31E15,1.35E15
+Indonesia,IDN,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,1.34E11,1.33E11,1.42E11
+Indonesia,IDN,"Cost to import, border compliance (US$)",IC.IMP.CSBC.CD,382.5867,382.5867,382.5867
+Indonesia,IDN,"Cost to export, documentary compliance (US$)",IC.EXP.CSDC.CD,138.8,138.8,138.8
+Indonesia,IDN,Private credit bureau coverage (% of adults),IC.CRD.PRVT.ZS,18.3,38.1,40.4
+Indonesia,IDN,Primary government expenditures as a proportion of original approved budget (%),GF.XPD.BUDG.ZS,96.4864,99.6605,93.8685
+Indonesia,IDN,Government Effectiveness: Percentile Rank,GE.PER.RNK,54.32692337,60.57692337,60.57692337
+Indonesia,IDN,Subsidies and other transfers (current LCU),GC.XPN.TRFT.CN,9.79E14,1.07E15,1.14E15
+Indonesia,IDN,Other expense (current LCU),GC.XPN.OTHR.CN,1.54E14,2.42E14,2.58E14
+Indonesia,IDN,Goods and services expense (% of expense),GC.XPN.GSRV.ZS,14.64510858,12.96932356,10.93640337
+Indonesia,IDN,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,48.185189,49.40473344,50.01738196
+Indonesia,IDN,Tax revenue (current LCU),GC.TAX.TOTL.CN,1.34E15,1.52E15,1.54E15
+Indonesia,IDN,Taxes on international trade (current LCU),GC.TAX.INTT.CN,3.86E13,4.56E13,4.04E13
+Indonesia,IDN,Taxes on goods and services (% of revenue),GC.TAX.GSRV.RV.ZS,38.11164367,35.89542409,35.94079956
+Indonesia,IDN,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,12.17664757,12.99328466,12.34853846
+Indonesia,IDN,Grants and other revenue (% of revenue),GC.REV.GOTR.ZS,19.43637981,21.87931165,21.23574572
+Indonesia,IDN,"Central government debt, total (% of GDP)",GC.DOD.TOTL.GD.ZS,32.42906712,33.13941924,33.72915562
+Indonesia,IDN,Claims on other sectors of the domestic economy (% of GDP),FS.AST.DOMO.GD.ZS,41.3072032,42.07678607,40.97685837
+Indonesia,IDN,"Interest rate spread (lending rate minus deposit rate, %)",FR.INR.LNDP,4.555,4.4075,3.6775
+Indonesia,IDN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.80879807,3.198346416,3.03058665
+Indonesia,IDN,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,39.87663393,38.81758144,38.76024384
+Indonesia,IDN,Net foreign assets (current LCU),FM.AST.NFRG.CN,1.54E15,1.44E15,1.51E15
+Indonesia,IDN,Total reserves minus gold (current US$),FI.RES.XGLD.CD,1.27E11,1.17E11,1.25E11
+Indonesia,IDN,Bank liquid reserves to bank assets ratio (%),FD.RES.LIQU.AS.ZS,20.63474173,17.70795874,18.1261409
+Indonesia,IDN,"Commercial bank branches (per 100,000 adults)",FB.CBK.BRCH.P5,16.74642203,16.13625067,15.64347081
+Indonesia,IDN,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,5.268233446,5.268233446,5.268239694
+Indonesia,IDN,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,2018.7,2018.7,2018.7
+Indonesia,IDN,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,4.103128439,4.103128439,4.103128439
+Indonesia,IDN,Total fisheries production (metric tons),ER.FSH.PROD.MT,2.306437004E7,2.292766027E7,2.261834111E7
+Indonesia,IDN,Population in largest city,EN.URB.LCTY,1.0401144E7,1.0516927E7,1.0638689E7
+Indonesia,IDN,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,6189.02,6599.22,6963.22
+Indonesia,IDN,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,278409.4,279692.1,280954.0
+Indonesia,IDN,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,91736.48,91019.5,88962.78
+Indonesia,IDN,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.178749538,0.189558147,0.193902792
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, New Zealand (current US$)",DC.DAC.NZLL.CD,1.257999992E7,1.690999985E7,1.347000027E7
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Korea, Rep. (current US$)",DC.DAC.KORL.CD,4.797000122E7,4.288999939E7,3.543000031E7
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Ireland (current US$)",DC.DAC.IRLL.CD,9999.999776,409999.9964,39999.99911
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, France (current US$)",DC.DAC.FRAL.CD,1.891600037E8,2.861099854E8,-1.342200012E8
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Germany (current US$)",DC.DAC.DEUL.CD,2.682600098E8,1.097089966E9,6570000.172
+Indonesia,IDN,"Net bilateral aid flows from DAC donors, Canada (current US$)",DC.DAC.CANL.CD,1.188000011E7,1.503999996E7,1.231000042E7
+Indonesia,IDN,"Stocks traded, turnover ratio of domestic shares (%)",CM.MKT.TRNR,17.7675162,21.49952731,22.5271
+Indonesia,IDN,Market capitalization of listed domestic companies (% of GDP),CM.MKT.LCAP.GD.ZS,51.26792744,46.70240964,46.76274878
+Indonesia,IDN,"Control of Corruption: Percentile Rank, Upper Bound of 90% Confidence Interval",CC.PER.RNK.UPPER,54.80769348,55.28845978,48.55769348
+Indonesia,IDN,Control of Corruption: Estimate,CC.EST,-0.280535877,-0.276329666,-0.452071995
+Indonesia,IDN,"Secondary income receipts (BoP, current US$)",BX.TRF.CURR.CD,9.966695948E9,1.2220296589E10,1.2676528845E10
+Indonesia,IDN,"Travel services (% of service exports, BoP)",BX.GSR.TRVL.ZS,51.87759367,52.63522116,53.44512976
+Indonesia,IDN,"Service exports (BoP, current US$)",BX.GSR.NFSV.CD,2.5327655425E10,3.1206848719E10,3.1641319125E10
+Indonesia,IDN,"Primary income receipts (BoP, current US$)",BX.GSR.FCTY.CD,5.574923206E9,9.301833055E9,7.372499359E9
+Indonesia,IDN,"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,3.3528E8,3.6199E8,3.5362E8
+Indonesia,IDN,"Reserves and related items (BoP, current US$)",BN.RES.INCL.CD,1.1585123171E10,-7.133028387E9,4.674469188E9
+Indonesia,IDN,"Net trade in goods (BoP, current US$)",BN.GSR.MRCH.CD,1.8813932316E10,-2.283027128E8,3.507733912E9
+Indonesia,IDN,Current account balance (% of GDP),BN.CAB.XOKA.GD.ZS,-1.594656902,-2.93907292,-2.705661989
+Indonesia,IDN,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,0.197738766,0.613968178,0.398756296
+Indonesia,IDN,"Imports of goods, services and primary income (BoP, current US$)",BM.GSR.TOTL.CD,2.2E11,2.59E11,2.45E11
+Indonesia,IDN,"Insurance and financial services (% of service imports, BoP)",BM.GSR.INSF.ZS,5.303774981,4.897105134,4.474163842
+Indonesia,IDN,Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS,5.714198843,6.610443247,6.337566347
+Indonesia,IDN,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,110.11,115.84,109.6
+Indonesia,IDN,Permanent cropland (% of land area),AG.LND.CROP.ZS,13.31544448,13.31544448,13.31544448
+Indonesia,IDN,Arable land (hectares),AG.LND.ARBL.HA,2.63E7,2.63E7,2.63E7
+Indonesia,IDN,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,147.702995,147.3186344,122.9164703
+Indonesia,IDN,Observed Average Annual Mean-Temperature,XX.XXX.XXXX.XX,26.04,26.2,26.18
