@@ -3,20 +3,34 @@
 \label{BAB1:pendahuluan}
 
 \section{Latar Belakang}
- Dokumen ini menggunakan \textit{style} yang sudah didefinisikan di folder Etc/skripsityle.cls. Jangan ubah kode yang ada di \textit{file} tersebut agar dokumen ini tetap memenuhi Pedoman Laporan Tugas Akhir Universitas Pertamina. \textit{File} utama dari dokumen ini adalah \verb|main.tex|. Isi informasi yang ada di \textit{file} tersebut. Tulisan bab x dapat diisi dalam file \verb|BAB-x.tex| yang berada di dalam \textit{folder}-nya masing-masing. Jika ada gambar yang akan dimasukkan dalam suatu bab, maka gambar tersebut dalam dimasukkan dalam \textit{folder} di bab tersebut berada. Perintah \verb|\lipsum[]| digunakan untuk menghasilkan kalimat-kalimat buatan. Silahkan hapus perintah tersebut dari \textit{template}. Simbol \verb|%| digunakan untuk membuat \textit{comment}, yaitu kode yang tidak dieksekusi oleh compiler \LaTeX, sehingga dapat digunakan untuk membuat catatan atau membatalkan suatu perintah.
+Emisi Gas Rumah Kaca (GRK) di Indonesia diperkirakan meningkat pada periode 2021-2030. Informasi tersebut diperoleh dari artikel DataIndonesia.Id yang ditulis oleh Rizaty \cite{rizaty_emisi_2022}, pada artikel tersebut juga disebutkan bahwa emisi GRK nasional sudah mencapai 259,1 juta ton CO2 pada tahun 2021. Proyeksi emisi GRK tahun 2030 diprediksi akan meningkat sebesar 29,13\% menjadi 334,6 juta ton CO2. 
 
- Untuk membuat paragraf baru cukup pisahkan satu baris antar paragraf. Tentukan singkatan dan akronim untuk pertama kalinya digunakan dalam teks, walaupun telah didefinisikan dalam abstrak. Tulis definisinya atau nama panjangnya terlebih dahulu sebelum akronimnya. Sebagai contoh, Fakultas Sains dan Ilmu Komputer (FSIK). Singkatan yang umum seperti PERTAMINA, IEEE, ac, dc, dan rms tidak harus didefinisikan. Jangan gunakan singkatan dalam judul kecuali tidak dapat dihindari.
+Selain itu, Indonesia akan terus meningkat diikuti dengan kemajuan teknologi, hal ini menyebabkan peningkatan kebutuhan energi \cite{kristanto_estimating_2019}. Pertumbuhan penduduk ini berdampak pada penggunaan bahan bakar fosil, seperti pembakaran kendaraan bermotor dan kegiatan industri, yang menjadi penyumbang salah satu faktor emisi GRK \citep{ketaren_peranan_2023}. Dampak dari peningkatan emisi GRK dan konsumsi energi di dunia juga sangat signifikan terhadap lingkungan, seperti kenaikan suhu global, perubahan iklim ekstrem, serta perubahan pola cuaca \citep{li_relationship_2023}. Hal ini perlu diwaspadai mengingat dampak dari emisi GRK yang cukup membahayakan.
 
- Untuk membuat persamaan matematika, dapat mengacu ke tulisan berikut: \url{https://en.wikibooks.org/wiki/LaTeX/Mathematics}. 
+Di Indonesia, terdapat program yang dinamakan Indonesia's FOLU Net Sink 2030, yang merupakan sebuah inisiatif dari pemerintah Indonesia untuk mencapai keseimbangan antara emisi dan penyerapan karbon pada tahun 2030. Dalam rangka mengatasi isu perubahan iklim, Indonesia berkomitmen dalam memperkuat sektor kehutanan, pertanian, dan penggunaan lahan lainnya sebagai upaya mencapai "\textit{net sink}" yaitu penyerapan karbon yang lebih banyak \cite{lhk_standar_2023}.
+
+Inovasi, upaya, dan ide yang dihasilkan dari penelitian yang membahas tentang emisi GRK di Indonesia  juga diperlukan saat ini dalam memberikan kontribusi yang lebih efektif dalam mencapai target Indonesia's FOLU Net Sink 2030. Dalam rangka mencari solusi terhadap masalah emisi GRK di Indonesia, pemanfaatan teknologi dan kecerdasan buatan, seperti \textit{Natural Language Processing} (NLP) dan \textit{text mining}, dapat membantu mengatasi tantangan tersebut \cite{tiwari2023, Salloum2018}. Teks-teks dari berbagai sumber, seperti jurnal penelitian, artikel, dan laporan yang membahas mengenai GRK dan terdapat hubungannya di Indonesia dapat dijadikan sebagai data. Data teks tersebut dapat diolah dan dianalisis dengan efisien menggunakan proses \textit{text mining} dan beberapa fungsi dari NLP dalam mengidentifikasi faktor-faktor penyebab GRK yang relevan. Selain itu, terdapat pendekatan menggunakan teori Luhn \cite{luhn_automatic_1958} sebagai \textit{text summarizer} \cite{ocr-based_2023} atau dalam pemilihan kata kunci sesuai dengan konsep yang ingin dicari \cite{rahmah_critical_2022}, sehingga dapat meningkatkan kualitas dan validitas hasil dari proses tersebut.
+
+Oleh sebab itu, penulis ingin menerapkan pendekatan gabungan berupa kuantitatif dan kualitatif yang dapat menentukan kata-kata kunci yang relevan mengenai GRK di Indonesia berdasarkan data yang tersedia dengan didukung pencarian studi literatur. Diharapkan dari penelitian ini dapat memberikan pengetahuan baru dan ide terkait solusi yang dapat dilakukan untuk mengurangi emisi GRK. Selain itu juga dapat mendukung upaya kepada pembaca, para pakar, peneliti, instansi maupun pemerintah dalam mengoptimalkan kebijakan dan strategi untuk mengatasi perubahan iklim secara lebih efisien dan efektif khususnya dalam aspek GRK di Indonesia.
   
 \section{Rumusan Masalah}
-\lipsum[7] % generate dummy sentences
+Berdasarkan latar belakang yang telah dijelaskan, rumusan masalah pada penelitian ini yaitu bagaimana cara menentukan kata-kata kunci yang memiliki relevansi faktor penyebab gas rumah kaca di Indonesia berdasarkan data studi literatur dengan \textit{text mining} berupa teknik \textit{clustering} dan teori Luhn? %buat apa
 
-% \section{Batasan Masalah}
-% \lipsum[8] % generate dummy sentences
+% \begin{enumerate}
+%     \item Apa saja faktor-faktor emisi GRK berdasarkan studi literatur dan data yang akan dipakai sebagai variabel-variabel penyebab GRK?
+%     \item Bagaimana aspek penyebab emisi GRK terbesar di Indonesia dan upaya yang dapat diidentifikasi dan dianalisis melalui pendekatan kualitatif studi literatur yang terkait?
+% \end{enumerate}
+
+\section{Batasan Masalah}
+Adapun batasan masalah pada penelitian ini ialah menggunakan data berupa studi literatur yang merupakan artikel atau penelitian lima tahun terakhir sejak tahun 2018 yang didapatkan melalui \textit{search engine} Scopus yang mengulas terkait GRK di negara Indonesia.
  
-\section{Tujuan Penelitian}
-\lipsum[9] % generate dummy sentences
+\section{Tujuan penelitian}
+Tujuan dari penelitian ini yaitu untuk menentukan kata-kata kunci yang memiliki relevansi faktor penyebab gas rumah kaca di Indonesia berdasarkan data studi literatur dengan \textit{text mining} berupa teknik \textit{clustering} dan teori Luhn. %buat apa
 
-\section{Manfaat Penelitian}
-\lipsum[10] % generate dummy sentences
+% \begin{enumerate}
+%     \item Mengetahui faktor-faktor emisi GRK berdasarkan studi literatur dan data yang akan dipakai sebagai variabel-variabel penyebab GRK berdasarkan studi literatur.
+%     \item Menentukan aspek penyebab emisi GRK terbesar di Indonesia dan upaya yang dapat diidentifikasi dan dianalisis melalui pendekatan kualitatif studi literatur yang terkait.
+% \end{enumerate}
+
+\section{Manfaat penelitian}
+Penelitian ini diharapkan dapat memberikan manfaat yang signifikan dalam menentukan faktor penyebab emisi Gas Rumah Kaca (GRK) di Indonesia berdasarkan keterbaruan dari salah satu basis data literatur ilmiah yaitu Scopus. Dengan menerapkan pendekatan gabungan yaitu kuantitatif dan kualitatif menggunakan \textit{text mining} dengan NLP serta K-Means dan teori Luhn, penelitian ini diharapkan juga dapat memberikan kemudahan dan efisiensi dalam mengidentifikasi kata kunci yang relevan mengenai GRK secara valid berdasarkan fakta dan data yang terverifikasi. Selain itu, hasil penelitian ini dapat menjadi dasar untuk mengembangkan kebijakan dan strategi yang lebih baik berdasarkan aspek relevansi dalam menghadapi tantangan perubahan iklim dan menjaga keberlanjutan lingkungan bagi masa depan yang lebih baik terutama dalam kasus GRK di Indonesia.

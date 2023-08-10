@@ -1,46 +1,10 @@
-\Appendix{Judul Lampiran 1}
-\label{lampiran1}
+\Appendix{Lampiran 1. Tren Total Emisi GRK Indonesia}
+\label{lampiran}
 
-\lipsum[1] % generate dummy sentences
-
-\begin{myblock}{Cara \textit{Web Scraping}}\label{Lampiran1}
-\begin{minted}[xleftmargin=20pt,linenos]{python}
-
-from bs4 import BeautifulSoup
-import requests
-from time import sleep
-base_url = "https://www.oreilly.com/search/" + \
-           "/?q=data&type=*&rows=10&page="
-
-
-books = []
-NUM_PAGES = 31
-
-for page_num in range(1, NUM_PAGES + 1):
-    print("souping page", page_num, ",", len(books), " found")
-    url = base_url + str(page_num)
-    soup = BeautifulSoup(requests.get(url).text, 'html5lib')
-    
-    for td in soup('td', 'thumbtext'): if not is_video(td):
-        books.append(book_info(td))
-        
-    # give a break
-    sleep(30)
-
-def get_year(book):
-    return int(book["date"].split()[1])
-
-year_counts = Counter(get_year(book) for book in books 
-                       if get_year(book) <= 2014)
-
-import matplotlib.pyplot as plt
-years = sorted(year_counts)
-book_counts = [year_counts[year] for year in years] 
-plt.plot(years, book_counts)
-plt.ylabel("# of data books")
-plt.title("Data is Big!")
-plt.show()
-
-\end{minted}
-\end{myblock}
-
+Data yang diambil dari \textit{World Development Indicators} oleh World Bank \cite{worldbank_2023}, menunjukkan \textit{total greenhouse gas emissions (kt of CO2 equivalent)} di Indonesia tahun 2010-2019. Mengindikasikan bahwa tren dari emisi yang ditimbulkan oleh GRK di Indonesia semakin meningkat secara signifikan, pada tahun 2019 dihasilkan sebesar 1.002.369,0 kt of CO2.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\linewidth]{img/L1.png}
+    \caption{Total emisi GRK di Indonesia 2010-2019}
+    \label{fig:L1}
+\end{figure}

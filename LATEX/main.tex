@@ -38,12 +38,12 @@
 \usepackage{sectsty}
 \usepackage{indentfirst}
 \usepackage{xcolor}
-
+\usepackage{booktabs}
 \usepackage{ragged2e}
 \usepackage{hyperref}
 \usepackage{amsthm}
 \usepackage{multicol}
-\usepackage{natbib} % Bibliography with APA Style
+\usepackage[numbers]{natbib} % Bibliography with APA Style
 \usepackage{pdfpages}
 \usepackage{background} % for adding watermark
 \usepackage{longtable}
@@ -86,7 +86,7 @@
  }
  
  \usepackage{enumitem}
- \setlist[enumerate,1]{start=0} % only outer nesting level
+ \setlist[enumerate,1]{start=1} % only outer nesting level
 
 \usepackage{algorithm}
 \makeatletter
@@ -141,13 +141,13 @@
 % Semua informasi penting yang diperlukan
 %------------------------------------------------------------
 % {Judul} dan {sub judul jika ada}. Jika tidak ada sub judul biarkan {} kosong
-\title{Bukan Tugas Akhir Biasa}{}
+\title{Analisis Kata Kunci yang Relevan dengan Faktor Gas Rumah Kaca di Indonesia Menggunakan \textit{Text Mining} dan Teori Luhn}{}
 
 % {Judul} dan {sub judul jika ada} dalam bahasa inggris
-\titleeng{Not an Ordinary Final Project}{}
+\titleeng{Analysis of Relevant Keywords to Greenhouse Gas Factors in Indonesia Using Text Mining and Luhn's Theory}{}
 
 % Nama Penulis dan NIM
-\author{Sebut Saja Bunga}{13203013}
+\author{Kiagus Muhammad Arsyad}{105219002}
 
 % Nama Fakultas, tanpa menuliskan kata "Fakultas" di depannya
 \fakultas{Sains dan Ilmu Komputer}
@@ -156,23 +156,23 @@
 \prodi{Ilmu Komputer}
 
 % Tanggal lulus sidang (Tanggal dan bulan+tahun dipisah)
-\tgllulus{17}{Agustus 2043}
+\tgllulus{3}{Agustus 2023}
 
 % Tanggal Pengesahan oleh Pembimbing (Tanggal, bulan, dan tahun digabung)
-\tglpengesahan{17 Agustus 2045}
+\tglpengesahan{31 Juli 2023}
 
 % Tanggal pembuatan Lembar Pernyataan (Tanggal, bulan, dan tahun digabung)
-\tglpernyataan{17 Agustus 2045}
+\tglpernyataan{31 Juli 2023}
 
 % Tentukan jumlah pembimbing (1 atau 2)
 \newcounter{jumlahPembimbing}\setcounter{jumlahPembimbing}{2}
 
 % Abaikan Nama dan NIP Pembimbing kedua kalau hanya 1 pembimbing, jangan dihapus
-\pembimbingsatu{Pembimbing Satu}{116xxx}
-\pembimbingdua{Pembimbing Dua}{116xxx}
+\pembimbingsatu{Dr. Tasmi, S.Si., M.Si.}{ 116109}
+\pembimbingdua{Dr. Ariana Yunita}{ 116015}
 
 % Nama Ketua Program Studi dan NIP nya
-\kaprodi{Kaprodi}{116xxx} % Nama dan NIP
+\kaprodi{Ade Irawan, Ph.D}{116130} % Nama dan NIP
 %------------------------------------------------------------
 
 %------------------------------------------------------------
@@ -189,7 +189,7 @@
 % Pemenggalan suku kata dengan tanda -
 % Setiap kata dipisahkan oleh spasi
 %--------------------------------------------------------------
-\hyphenation{me-ning-kat-kan di-tu-lis-kan me-ne-ri-ma me-la-lu-i Na-mun or-ga-ni-sa-i pe-ner-je-mah pe-me-rin-tah me-nge-na-li aug-men-ta-tion meng-gu-na-kan di-gu-na-kan learn-ing trans-fer-ing bi-sin-do se-mi-ring ber-orde sa-ling}
+\hyphenation{me-ning-kat-kan di-tu-lis-kan me-ne-ri-ma me-la-lu-i Na-mun or-ga-ni-sa-si pe-ner-je-mah pe-me-rin-tah me-nge-na-li aug-men-ta-tion meng-gu-na-kan di-gu-na-kan learn-ing trans-fer-ing bi-sin-do se-mi-ring ber-orde sa-ling te-ri-ma ke-ku-rang-an mem-be-ri-kan pe-nyem-pur-na text mining indonesia nasihat luhn ma-chine learning meng-iden-ti-fi-ka-si climate development production industry tersebut untuk}
 %--------------------------------------------------------------
 
 %------------------------------------------------------------
@@ -237,7 +237,7 @@
 % BIBLIOGRAPHY 
 %------------------------------------------------------------
 \begin{singlespace}
-  \bibliographystyle{apalike}
+  \bibliographystyle{IEEEtranN}
   \addcontentsline{toc}{chapter}{DAFTAR PUSTAKA}
   \bibliography{referensi}
 \end{singlespace}

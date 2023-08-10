@@ -169,7 +169,7 @@
 	\null
 	%\vskip 1.55cm
 	\LARGE \bf \MakeUppercase{\up@title} \par
-	{\linespread{0.5} 
+	{\linespread{0.5}
         \Large \bf \MakeUppercase{\up@subtitle} \par
         \vskip 3cm
         \Large \bf LAPORAN TUGAS AKHIR \par        
@@ -293,20 +293,28 @@
 \begin{front}
 	{\Large \bf \begin{center} LEMBAR PERNYATAAN \end{center}} \par
 	{\large
-	Dengan ini saya menyatakan bahwa Tugas Akhir berjudul \up@title \hspace{1pt} \up@subtitle \hspace{1pt} ini adalah benar-benar merupakan hasil karya saya sendiri dan tidak mengandung materi yang ditulis oleh orang lain kecuali telah dikutip sebagai referensi yang sumbernya telah dituliskan secara jelas sesuai dengan kaidah penulisan karya ilmiah.
+	Dengan ini saya menyatakan bahwa Tugas Akhir berjudul \up@title \up@subtitle \hspace{1pt} ini adalah benar-benar merupakan hasil karya saya sendiri dan tidak mengandung materi yang ditulis oleh orang lain kecuali telah dikutip sebagai referensi yang sumbernya telah dituliskan secara jelas sesuai dengan kaidah penulisan karya ilmiah.
  
 Apabila dikemudian hari ditemukan adanya kecurangan dalam karya ini, saya bersedia menerima sanksi dari Universitas Pertamina sesuai dengan peraturan yang berlaku.
 
 Demi pengembangan ilmu pengetahuan, saya menyetujui untuk memberikan kepada Universitas Pertamina hak bebas royalti noneksklusif ({\it non-exclusive royalty-free right}) atas Tugas Akhir ini beserta perangkat yang ada. Dengan hak bebas royalti noneksklusif ini Universitas Pertamina berhak menyimpan, mengalih media/format-kan, mengelola dalam bentuk pangkatan data ({\it database}), merawat, dan mempublikasikan Tugas Akhir saya selama tetap mencantumkan nama saya sebagai penulis/pencipta dan sebagai pemilik Hak Cipta.
 
 Demikian pernyataan ini saya buat dengan sebenarnya \par
-	\vskip 3cm
-	\hspace{10cm} Jakarta, \up@tglpernyataan \par
-	\hspace{9.8cm} Yang membuat pernyataan,
-	\vskip 1cm
-    \hspace{11cm}-- Materai --
-    \vskip 1cm
-	\hspace{10.5cm} \up@author
+	% \hspace{10.05cm} Jakarta, \up@tglpernyataan \par
+	% \hspace{10cm} Yang membuat pernyataan,
+	% \vskip 1cm
+ %    \hspace{11cm}-- Materai --
+ %    \vskip 1cm
+	% \hspace{10cm} \up@author
+\begin{center}
+    Jakarta, \up@tglpernyataan \par
+    % \vskip 1.25cm
+    % -- Materai -- \par
+    % \vskip 1.25cm
+    \vskip 2.5cm
+    Yang membuat pernyataan, \par
+    \up@author
+\end{center}
 }	
 \end{front}
 \newpage
@@ -423,6 +431,7 @@ Demikian pernyataan ini saya buat dengan sebenarnya \par
 	\chapter{\listfigurename}%
 	\phantomsection \@starttoc{lof}%
 \end{singlespace}
+
 \DeactivateBG{}
 \includepdf{Etc/pemisah.pdf}
 \ActivateBG{}
